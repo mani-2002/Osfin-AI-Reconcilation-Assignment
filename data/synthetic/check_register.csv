@@ -1,0 +1,1296 @@
+transaction_id,date,description,amount,type,category,notes,month
+R01063,2024-01-01,Grocery store,132.02,DR,Grocery,,1
+R00656,2024-01-01,Dinner out,38.46,DR,Restaurant,,1
+R00722,2024-01-01,Dinner out,45.89,DR,Restaurant,,1
+R00039,2024-01-01,Transfer,200.0,DR,Transfer,,1
+R00531,2024-01-01,Move to savings,500.0,DR,Transfer,,1
+R01082,2024-01-01,Salary,2450.0,CR,Payroll,,1
+R01027,2024-01-02,Groceries,83.69,DR,Grocery,,1
+R00770,2024-01-02,Food shopping,68.51,DR,Grocery,,1
+R01222,2024-01-02,Coffee,5.25,DR,Coffee,,1
+R00346,2024-01-02,Amazon order,349.79,DR,Online Purchase,,1
+R00130,2024-01-02,Rent,1850.0,DR,Rent,,1
+R00385,2024-01-03,Dinner out,127.09,DR,Restaurant,,1
+R00374,2024-01-04,Dinner out,100.0,DR,Atm Withdrawal,,1
+R00208,2024-01-04,Music subscription,15.49,DR,Subscription,,1
+R01013,2024-01-05,Groceries,84.91,DR,Grocery,,1
+R01105,2024-01-05,Lunch,32.2,DR,Restaurant,,1
+R00636,2024-01-05,Coffee shp,5.25,DR,Coffee,,1
+R00072,2024-01-05,Coffee,4.5,DR,Coffee,,1
+R00988,2024-01-05,Gas,60.0,DR,Gas Station,,1
+R00163,2024-01-05,Amazon order,7.05,DR,Online Purchase,,1
+R00125,2024-01-05,Move tosavings,500.0,DR,Transfer,,1
+R00767,2024-01-05,Internal transfer,250.0,DR,Transfer,,1
+R01030,2024-01-06,Lunch,67.54,DR,Restaurant,,1
+R00487,2024-01-06,Online shopping,47.64,DR,Online Purchase,,1
+R00777,2024-01-06,Amazon order,78.77,DR,Online Purchase,,1
+R00840,2024-01-06,Check payment,112.14,DR,Check Payment,,1
+R00566,2024-01-07,Groceries,42.0,DR,Grocery,,1
+R00480,2024-01-07,Restaurant,77.54,DR,Restaurant,,1
+R00787,2024-01-07,Fill up,40.0,DR,Gas Station,,1
+R01021,2024-01-08,Weekly groceries,43.67,DR,Grocery,,1
+R00298,2024-01-08,Dinner out,24.21,DR,Restaurant,,1
+R00167,2024-01-08,Coffee,5.25,DR,Coffee,,1
+R00943,2024-01-08,Online shopping,11.39,DR,Online Purchase,,1
+R00225,2024-01-09,Weekly groceries,130.94,DR,Grocery,,1
+R00419,2024-01-09,Restaurant,24.62,DR,Restaurant,,1
+R00895,2024-01-10,Grocery store,53.37,DR,Grocery,,1
+R00520,2024-01-10,Groceries,111.61,DR,Grocery,,1
+R00904,2024-01-10,Gas station,73.27,DR,Gas Station,,1
+R00052,2024-01-10,Online shopping,117.73,DR,Online Purchase,,1
+R00380,2024-01-11,Coffee,5.25,DR,Coffee,,1
+R01143,2024-01-11,Check #3003,50.0,DR,Check Payment,,1
+R00701,2024-01-11,Music subscription,10.99,DR,Subscription,,1
+R00903,2024-01-11,Car insurance,247.31,DR,Insurance,,1
+R00316,2024-01-12,Restaurant,36.06,DR,Restaurant,,1
+R00294,2024-01-12,Coffee shop,6.4,DR,Coffee,,1
+R00094,2024-01-12,Amazon order,9.19,DR,Online Purchase,,1
+R00474,2024-01-12,Check #3001,150.29,DR,Check Payment,,1
+R00721,2024-01-12,Insurancepayment,412.5,DR,Insurance,,1
+R01192,2024-01-13,Morning coffee,4.5,DR,Coffee,,1
+R00786,2024-01-13,Online purchase,62.05,DR,Online Purchase,,1
+R00682,2024-01-13,Internal transfer,250.0,DR,Transfer,,1
+R00858,2024-01-14,Weekly groceries,49.03,DR,Grocery,,1
+R00751,2024-01-14,Coffee,4.5,DR,Coffee,,1
+R00552,2024-01-15,Food shopping,75.83,DR,Grocery,,1
+R01081,2024-01-15,Food shopping,60.29,DR,Grocery,,1
+R00772,2024-01-15,Online purchase,84.67,DR,Online Purchase,,1
+R00666,2024-01-15,Paycheck,2450.0,CR,Payroll,,1
+R00867,2024-01-16,Weekly groceries,52.97,DR,Grocery,,1
+R01033,2024-01-16,Food shopping,72.41,DR,Grocery,,1
+R00542,2024-01-16,Lunch,130.5,DR,Restaurant,,1
+R00825,2024-01-16,Eating out,36.86,DR,Restaurant,,1
+R00815,2024-01-16,Dinner out,34.08,DR,Restaurant,,1
+R00066,2024-01-17,Eating out,22.72,DR,Restaurant,,1
+R01064,2024-01-17,Check #3000,113.0,DR,Online Purchase,,1
+R01290,2024-01-18,Weekly groceries,58.61,DR,Grocery,,1
+R00462,2024-01-18,Online purchase,35.41,DR,Online Purchase,,1
+R00045,2024-01-18,Online purchase,159.1,DR,Online Purchase,,1
+R00067,2024-01-18,Music subscription,38.17,DR,Subscription,,1
+R01002,2024-01-19,Weekly groceries,67.04,DR,Grocery,,1
+R00268,2024-01-19,Morning coffee,4.5,DR,Coffee,,1
+R00869,2024-01-19,Morning coffee,5.25,DR,Coffee,,1
+R00019,2024-01-19,Electric bill,177.71,DR,Utility,,1
+R01051,2024-01-20,Weekly groceries,83.39,DR,Grocery,,1
+R00321,2024-01-20,Restaurant,25.89,DR,Restaurant,,1
+R00193,2024-01-20,Coffee,5.25,DR,Coffee,,1
+R00398,2024-01-20,Online shopping,26.25,DR,Online Purchase,,1
+R00544,2024-01-20,Move to savings,500.0,DR,Transfer,,1
+R01251,2024-01-21,Coffee shop,5.25,DR,Coffee,,1
+R01050,2024-01-21,Gas,43.65,DR,Gas Station,,1
+R01022,2024-01-21,Gas,46.18,DR,Gas Station,,1
+R00528,2024-01-21,Utilities,67.08,DR,Utility,,1
+R01183,2024-01-22,Eating out,25.34,DR,Restaurant,,1
+R00088,2024-01-23,Eating out,15.33,DR,Restaurant,,1
+R01074,2024-01-24,Amazon order,89.51,DR,Online Purchase,,1
+R01131,2024-01-24,Internal transfer,200.0,DR,Transfer,,1
+R00425,2024-01-25,Grocery store,73.39,DR,Grocery,,1
+R00016,2024-01-25,Grocery store,145.08,DR,Grocery,,1
+R00980,2024-01-26,Groceries,40.88,DR,Grocery,,1
+R01010,2024-01-26,Groceries,32.13,DR,Restaurant,,1
+R00833,2024-01-26,Coffee shop,4.5,DR,Coffee,,1
+R00894,2024-01-26,Transfer,250.0,DR,Transfer,,1
+R00064,2024-01-26,Transfer,250.0,DR,Transfer,,1
+R00069,2024-01-27,Eating out,14.39,DR,Restaurant,,1
+R01052,2024-01-27,Gas,64.33,DR,Gas Station,,1
+R00038,2024-01-28,Weekly groceries,50.02,DR,Grocery,,1
+R00887,2024-01-28,Dinner out,22.5,DR,Restaurant,,1
+R00262,2024-01-28,Eating out,39.7,DR,Restaurant,,1
+R00880,2024-01-28,Gas staion,52.66,DR,Gas Station,,1
+R00776,2024-01-28,Online purchae,147.27,DR,Online Purchase,,1
+R01085,2024-01-28,Online purchase,20.78,DR,Online Purchase,,1
+R00901,2024-01-29,Grocery store,95.54,DR,Grocery,,1
+R00278,2024-01-29,Online purchase,11.6,DR,Online Purchase,,1
+R00575,2024-01-29,Internal transfer,500.0,DR,Transfer,,1
+R00578,2024-01-30,Fuel,32.21,DR,Gas Station,,1
+R01040,2024-01-30,Withdrew cash,200.0,DR,Atm Withdrawal,,1
+R01116,2024-01-30,Paid by chek,50.0,DR,Check Payment,,1
+R00003,2024-01-31,Grocery store,126.97,DR,Grocery,,1
+R01004,2024-01-31,Grocery store,107.37,DR,Grocery,,1
+R00595,2024-01-31,Coffee,4.5,DR,Coffee,,1
+R00074,2024-01-31,Fill up,40.0,DR,Gas Station,,1
+R00655,2024-01-31,Monthly charge,12.0,DR,Bank Fee,,1
+R00899,2024-02-01,Groceries,61.16,DR,Grocery,,2
+R00855,2024-02-01,Morning coffee,6.4,DR,Coffee,,2
+R00643,2024-02-01,Morning coffee,4.5,DR,Coffee,,2
+R00750,2024-02-01,Online shopping,100.13,DR,Online Purchase,,2
+R00891,2024-02-01,Paycheck,2450.0,CR,Payroll,,2
+R00962,2024-02-02,Grocery store,202.16,DR,Grocery,,2
+R00296,2024-02-02,Amazon orer,44.01,DR,Online Purchase,,2
+R00170,2024-02-02,Rent,1850.0,DR,Rent,,2
+R00680,2024-02-03,Restaurant,25.33,DR,Restaurant,,2
+R00733,2024-02-03,Streaming service,6.4,DR,Coffee,,2
+R00708,2024-02-04,Weekly groceries,150.79,DR,Grocery,,2
+R00515,2024-02-04,Weekly groceries,49.76,DR,Grocery,,2
+R00970,2024-02-04,Coffe shop,5.8,DR,Coffee,,2
+R00906,2024-02-04,Cash withdrawal,20.0,DR,Atm Withdrawal,,2
+R00392,2024-02-04,Paid by check,50.9,DR,Check Payment,,2
+R00442,2024-02-04,Music subscription,15.49,DR,Subscription,,2
+R00058,2024-02-05,Grocery store,126.65,DR,Grocery,,2
+R00826,2024-02-05,Eating out,28.6,DR,Restaurant,,2
+R00414,2024-02-05,Coffee,6.4,DR,Coffee,,2
+R00951,2024-02-05,Morning coffee,4.5,DR,Coffee,,2
+R00716,2024-02-05,Cash withdrawal,60.0,DR,Atm Withdrawal,,2
+R01114,2024-02-06,Groceries,64.99,DR,Grocery,,2
+R00703,2024-02-06,Online purchase,76.88,DR,Online Purchase,,2
+R01153,2024-02-08,Coffee shop,5.75,DR,Coffee,,2
+R01190,2024-02-08,Online shopping,66.87,DR,Online Purchase,,2
+R00452,2024-02-09,Food shopping,94.03,DR,Grocery,,2
+R01101,2024-02-09,Weekly groceries,34.78,DR,Grocery,,2
+R01273,2024-02-09,Resturant,14.4,DR,Restaurant,,2
+R01055,2024-02-09,Lunch,22.97,DR,Restaurant,,2
+R00122,2024-02-09,Eating out,22.97,DR,Restaurant,,2
+R00481,2024-02-09,Lunch,24.19,DR,Restaurant,,2
+R00838,2024-02-09,Online purchase,138.14,DR,Online Purchase,,2
+R01065,2024-02-09,Paid by check,139.43,DR,Check Payment,,2
+R00282,2024-02-11,Morning coffee,5.25,DR,Coffee,,2
+R00497,2024-02-11,Online purchase,84.63,DR,Online Purchase,,2
+R00625,2024-02-11,Other expense,38.7,DR,Miscellaneous,Unclear transaction,2
+R00025,2024-02-11,Cash,40.0,DR,Atm Withdrawal,,2
+R01112,2024-02-11,Gym,10.99,DR,Subscription,,2
+R01160,2024-02-11,Health insurance,247.31,DR,Insurance,,2
+R01173,2024-02-12,Groceries,100.41,DR,Grocery,,2
+R00331,2024-02-12,Car insurance,412.5,DR,Insurance,,2
+R00187,2024-02-13,Grocery store,119.75,DR,Grocery,,2
+R00302,2024-02-13,Transfer,36.78,DR,Grocery,,2
+R00823,2024-02-13,Check payment,234.22,DR,Check Payment,,2
+R00109,2024-02-13,Check #3008,43.44,DR,Check Payment,,2
+R01239,2024-02-14,Lunch,198.44,DR,Restaurant,,2
+R00775,2024-02-14,Lunch,205.06,DR,Restaurant,,2
+R00207,2024-02-14,Gas station,40.0,DR,Gas Station,,2
+R01103,2024-02-15,Weekly groceries,116.84,DR,Grocery,,2
+R00459,2024-02-15,Dinner out,23.74,DR,Restaurant,,2
+R00255,2024-02-15,Coffee shop,5.75,DR,Coffee,,2
+R00433,2024-02-15,Morning coffee,4.5,DR,Coffee,,2
+R00359,2024-02-15,Cash,200.0,DR,Atm Withdrawal,,2
+R00006,2024-02-15,Salary,2450.0,CR,Payroll,,2
+R00604,2024-02-16,Food shopping,23.84,DR,Grocery,,2
+R01181,2024-02-16,Grocery store,80.13,DR,Grocery,,2
+R00455,2024-02-16,Grocery store,150.97,DR,Grocery,,2
+R00468,2024-02-16,Move to savings,100.0,DR,Transfer,,2
+R00998,2024-02-18,Eating out,46.32,DR,Restaurant,,2
+R00062,2024-02-18,Fill up,40.0,DR,Gas Station,,2
+R00234,2024-02-18,Online purchase,18.5,DR,Online Purchase,,2
+R00372,2024-02-18,Music subscription,38.17,DR,Subscription,,2
+R00955,2024-02-19,Morning coffee,5.25,DR,Coffee,,2
+R00586,2024-02-19,Online purchase,40.0,DR,Gas Station,,2
+R00252,2024-02-19,Moved to savings,100.0,DR,Transfer,,2
+R00105,2024-02-19,Water bill,106.99,DR,Utility,,2
+R00725,2024-02-20,Groceries,73.08,DR,Grocery,,2
+R00115,2024-02-20,Lunch,35.93,DR,Restaurant,,2
+R00963,2024-02-20,Online shopping,91.61,DR,Online Purchase,,2
+R00309,2024-02-20,Gas bill,132.28,DR,Utility,,2
+R01080,2024-02-21,Fuel,50.0,DR,Gas Station,,2
+R01243,2024-02-21,Utilities,120.5,DR,Utility,,2
+R00774,2024-02-22,Food shopping,63.75,DR,Grocery,,2
+R00228,2024-02-22,Coffee,5.75,DR,Coffee,,2
+R00383,2024-02-22,Online purchase,52.74,DR,Online Purchase,,2
+R01224,2024-02-22,Paid by ceck,80.88,DR,Check Payment,,2
+R00152,2024-02-23,Eating out,46.23,DR,Restaurant,,2
+R00202,2024-02-23,Dinner out,63.19,DR,Restaurant,,2
+R00507,2024-02-23,Amazon order,20.45,DR,Online Purchase,,2
+R00084,2024-02-23,Online shopping,35.27,DR,Online Purchase,,2
+R00938,2024-02-23,Transfer,500.0,DR,Transfer,,2
+R00479,2024-02-24,Weekly groceries,128.46,DR,Grocery,,2
+R01039,2024-02-24,Coffee,6.4,DR,Coffee,,2
+R00033,2024-02-24,Online shopping,34.99,DR,Online Purchase,,2
+R01151,2024-02-24,Amazon order,41.06,DR,Online Purchase,,2
+R00029,2024-02-25,Restaurant,107.52,DR,Restaurant,,2
+R00287,2024-02-25,Coffe,5.25,DR,Coffee,,2
+R00168,2024-02-25,Morning coffee,5.25,DR,Coffee,,2
+R00484,2024-02-25,Amazon order,268.68,DR,Online Purchase,,2
+R00403,2024-02-26,Groceries,314.55,DR,Grocery,,2
+R00358,2024-02-26,Eating out,74.58,DR,Restaurant,,2
+R00216,2024-02-26,Coffee shop,4.5,DR,Coffee,,2
+R01278,2024-02-26,Move to savings,250.0,DR,Transfer,,2
+R00458,2024-02-28,Coffee shop,6.4,DR,Coffee,,2
+R00239,2024-02-28,Cash withdrawal,60.0,DR,Atm Withdrawal,,2
+R00934,2024-02-29,Morning coffee,5.75,DR,Coffee,,2
+R01078,2024-02-29,Morning coffee,4.5,DR,Coffee,,2
+R00157,2024-02-29,Online purchase,22.33,DR,Online Purchase,,2
+R00013,2024-02-29,Move to savngs,500.0,DR,Transfer,,2
+R00005,2024-02-29,Monthly charge,12.0,DR,Bank Fee,,2
+R01271,2024-03-01,Coffee,5.75,DR,Coffee,,3
+R00437,2024-03-01,Paycheck,2450.0,CR,Payroll,,3
+R01292,2024-03-02,Weekly groceries,74.74,DR,Grocery,,3
+R01129,2024-03-02,Transfer,74.77,DR,Grocery,,3
+R01215,2024-03-02,Lunch,65.91,DR,Restaurant,,3
+R00444,2024-03-02,Move to savings,500.0,DR,Transfer,,3
+R00434,2024-03-02,Rent,1850.0,DR,Rent,,3
+R00866,2024-03-03,Dinner out,37.83,DR,Online Purchase,,3
+R00612,2024-03-04,Food shopping,70.81,DR,Grocery,,3
+R00771,2024-03-04,Eating out,25.27,DR,Restaurant,,3
+R00647,2024-03-04,Coffee,6.4,DR,Coffee,,3
+R00668,2024-03-04,Amazon order,28.0,DR,Online Purchase,,3
+R01128,2024-03-04,Music subscription,15.49,DR,Subscription,,3
+R00129,2024-03-05,Lunch,38.13,DR,Restaurant,,3
+R00570,2024-03-05,Online purchase,14.12,DR,Online Purchase,,3
+R00790,2024-03-05,Internal transfer,250.0,DR,Transfer,,3
+R00080,2024-03-06,Eating out,19.62,DR,Restaurant,,3
+R00709,2024-03-07,Groceries,65.77,DR,Grocery,,3
+R00396,2024-03-07,Online shopping,554.75,DR,Online Purchase,,3
+R01118,2024-03-08,Food shopping,56.4,DR,Grocery,,3
+R00969,2024-03-08,Online purchase,53.43,DR,Online Purchase,,3
+R01120,2024-03-08,Online purchase,65.73,DR,Online Purchase,,3
+R00572,2024-03-08,Cash withdrawal,20.0,DR,Atm Withdrawal,,3
+R00613,2024-03-08,Internal transfer,500.0,DR,Transfer,,3
+R00132,2024-03-08,Paid by check,413.41,DR,Check Payment,,3
+R01276,2024-03-09,Restaurant,30.74,DR,Restaurant,,3
+R01042,2024-03-09,Lunh,34.69,DR,Restaurant,,3
+R00431,2024-03-10,Transfer,85.51,DR,Grocery,,3
+R00615,2024-03-10,Weekly groceries,67.04,DR,Grocery,,3
+R00917,2024-03-10,Fill up,43.68,DR,Gas Station,,3
+R00579,2024-03-11,Dinner out,30.44,DR,Restaurant,,3
+R01266,2024-03-11,Amazon order,46.57,DR,Online Purchase,,3
+R00171,2024-03-11,Gym,10.96,DR,Subscription,,3
+R00664,2024-03-11,Health insurance,247.31,DR,Insurance,,3
+R00830,2024-03-12,Grocery store,48.15,DR,Grocery,,3
+R01205,2024-03-12,Amaon order,19.7,DR,Online Purchase,,3
+R00186,2024-03-12,Health insurance,412.5,DR,Insurance,,3
+R00245,2024-03-13,Morning coffee,5.25,DR,Coffee,,3
+R00641,2024-03-13,Coffee shop,6.4,DR,Coffee,,3
+R00605,2024-03-13,Coffee,5.25,DR,Coffee,,3
+R00323,2024-03-13,Amazon order,30.18,DR,Online Purchase,,3
+R00511,2024-03-13,Online shopping,156.0,DR,Online Purchase,,3
+R00608,2024-03-14,Coffee,5.25,DR,Coffee,,3
+R00948,2024-03-14,Amazon order,113.63,DR,Online Purchase,,3
+R00330,2024-03-15,Cash withdrawal,40.0,DR,Atm Withdrawal,,3
+R01164,2024-03-15,Check payment,107.47,DR,Check Payment,,3
+R00427,2024-03-15,Paycheck,2450.0,CR,Payroll,,3
+R00276,2024-03-16,Weekly groceries,61.66,DR,Grocery,,3
+R00856,2024-03-17,Lunch,42.46,DR,Restaurant,,3
+R00742,2024-03-17,Move to savings,500.02,DR,Transfer,,3
+R00440,2024-03-17,Paid by check,100.0,DR,Check Payment,,3
+R01234,2024-03-18,Online purchase,115.27,DR,Online Purchase,,3
+R00290,2024-03-18,Streaming service,38.17,DR,Subscription,,3
+R00930,2024-03-19,Food shopping,168.37,DR,Grocery,,3
+R00087,2024-03-19,Food shopping,71.88,DR,Grocery,,3
+R00653,2024-03-19,Mornng coffee,5.75,DR,Coffee,,3
+R00131,2024-03-19,Cash,100.0,DR,Atm Withdrawal,,3
+R00343,2024-03-19,Utilities,65.9,DR,Utility,,3
+R00677,2024-03-20,Online purchase,64.68,DR,Online Purchase,,3
+R00120,2024-03-20,Cash withdrawal,40.0,DR,Atm Withdrawal,,3
+R01262,2024-03-20,Other expense,100.76,DR,Miscellaneous,Unclear transaction,3
+R01206,2024-03-21,Lunch,14.97,DR,Restaurant,,3
+R01257,2024-03-21,Restarant,109.76,DR,Restaurant,,3
+R00748,2024-03-21,Lunch,35.91,DR,Restaurant,,3
+R00882,2024-03-21,Cash withdrawal,40.0,DR,Atm Withdrawal,,3
+R01023,2024-03-21,Water bill,163.03,DR,Utility,,3
+R00947,2024-03-22,Morning coffee,4.5,DR,Coffee,,3
+R00665,2024-03-22,Online purchase,18.39,DR,Online Purchase,,3
+R00417,2024-03-22,Online shopping,25.08,DR,Online Purchase,,3
+R00369,2024-03-23,Eating out,11.97,DR,Restaurant,,3
+R00738,2024-03-23,Cash,20.0,DR,Atm Withdrawal,,3
+R00023,2024-03-24,Dinner out,43.57,DR,Restaurant,,3
+R00553,2024-03-24,Gas station,65.5,DR,Gas Station,,3
+R00215,2024-03-25,Dinner out,21.51,DR,Restaurant,,3
+R00537,2024-03-25,Coffee,5.74,DR,Coffee,,3
+R00610,2024-03-25,Moved to savings,200.0,DR,Transfer,,3
+R00402,2024-03-26,Check #3009,88.76,DR,Grocery,,3
+R00957,2024-03-26,Internal ransfer,250.0,DR,Transfer,,3
+R01012,2024-03-26,Move to savings,200.0,DR,Transfer,,3
+R01238,2024-03-27,Morning coffee,5.75,DR,Coffee,,3
+R00639,2024-03-27,Morning coffee,4.5,DR,Coffee,,3
+R00884,2024-03-28,Weekly groceries,39.33,DR,Grocery,,3
+R00822,2024-03-28,Eating out,39.19,DR,Restaurant,,3
+R00763,2024-03-28,Eating out,50.68,DR,Restaurant,,3
+R00426,2024-03-28,Coffeeshop,4.5,DR,Coffee,,3
+R00190,2024-03-28,Coffee shop,4.5,DR,Coffee,,3
+R00166,2024-03-28,Coffee shop,4.5,DR,Coffee,,3
+R01044,2024-03-29,Restaurant,28.31,DR,Restaurant,,3
+R00493,2024-03-30,Transfer,200.0,DR,Transfer,,3
+R01139,2024-03-31,Eating out,48.58,DR,Restaurant,,3
+R00311,2024-03-31,Gas station,34.08,DR,Gas Station,,3
+R00547,2024-03-31,Monthly charge,12.0,DR,Bank Fee,,3
+R00508,2024-04-01,Groceries,48.56,DR,Grocery,,4
+R00300,2024-04-01,Paid by check,731.35,DR,Check Payment,,4
+R00670,2024-04-01,Monthly salary,2450.0,CR,Payroll,,4
+R01270,2024-04-02,Grocery store,104.18,DR,Grocery,,4
+R00488,2024-04-02,Grocery store,78.37,DR,Grocery,,4
+R01115,2024-04-02,Groceries,60.35,DR,Grocery,,4
+R00304,2024-04-02,Coffee shop,4.5,DR,Coffee,,4
+R00251,2024-04-02,Online shopping,94.33,DR,Online Purchase,,4
+R00959,2024-04-02,Online purchase,98.03,DR,Online Purchase,,4
+R01107,2024-04-02,Rent,1850.0,DR,Rent,,4
+R00258,2024-04-03,Groceries,46.6,DR,Grocery,,4
+R00328,2024-04-03,Weekly groceries,134.24,DR,Grocery,,4
+R00116,2024-04-04,Coffee,6.4,DR,Coffee,,4
+R01285,2024-04-04,Gym,15.49,DR,Subscription,,4
+R01261,2024-04-05,Morning coffee,5.25,DR,Coffee,,4
+R00966,2024-04-05,Coffee shop,5.75,DR,Coffee,,4
+R00820,2024-04-05,Online shopping,53.95,DR,Online Purchase,,4
+R00189,2024-04-05,Amazon order,167.62,DR,Online Purchase,,4
+R00757,2024-04-05,Move to savings,200.0,DR,Transfer,,4
+R01199,2024-04-06,Weekly groceries,50.6,DR,Grocery,,4
+R00945,2024-04-06,Coffee shop,5.25,DR,Coffee,,4
+R00543,2024-04-06,Morning coffee,4.5,DR,Coffee,,4
+R00512,2024-04-06,Withdrew cash,200.0,DR,Atm Withdrawal,,4
+R00494,2024-04-06,Moved to savings,200.01,DR,Transfer,,4
+R00883,2024-04-07,Grocery store,204.93,DR,Grocery,,4
+R00843,2024-04-07,Lunch,43.31,DR,Restaurant,,4
+R00436,2024-04-07,Lunh,49.47,DR,Restaurant,,4
+R00443,2024-04-07,Morning coffee,4.5,DR,Coffee,,4
+R00557,2024-04-07,Coffee,6.4,DR,Coffee,,4
+R00953,2024-04-07,Coffee,6.4,DR,Coffee,,4
+R00021,2024-04-07,Gas,33.59,DR,Gas Station,,4
+R00333,2024-04-08,Restaurant,42.37,DR,Restaurant,,4
+R00849,2024-04-08,Eating out,40.02,DR,Restaurant,,4
+R00412,2024-04-08,Restaurant,51.61,DR,Restaurant,,4
+R00989,2024-04-08,Coffee,5.25,DR,Coffee,,4
+R00675,2024-04-08,Fuel,34.71,DR,Gas Station,,4
+R00144,2024-04-08,Withdrew cash,40.0,DR,Atm Withdrawal,,4
+R00599,2024-04-09,Eating out,18.68,DR,Restaurant,,4
+R00303,2024-04-09,Coffee shop,5.26,DR,Coffee,,4
+R00280,2024-04-09,Gas staton,65.51,DR,Gas Station,,4
+R00580,2024-04-10,Lunch,52.43,DR,Restaurant,,4
+R00338,2024-04-10,Eating out,13.71,DR,Restaurant,,4
+R01255,2024-04-10,Restaurant,10.5,DR,Restaurant,,4
+R01202,2024-04-10,Fill up,47.9,DR,Gas Station,,4
+R00411,2024-04-10,Chek payment,225.47,DR,Check Payment,,4
+R00050,2024-04-11,Eating out,35.91,DR,Restaurant,,4
+R00465,2024-04-11,Withdrew cash,60.0,DR,Atm Withdrawal,,4
+R00348,2024-04-11,Music subscription,10.99,DR,Subscription,,4
+R01135,2024-04-11,Health insurance,247.33,DR,Insurance,,4
+R00892,2024-04-12,Grocery store,60.22,DR,Grocery,,4
+R00713,2024-04-12,Lunch,32.11,DR,Restaurant,,4
+R00582,2024-04-12,Coffee,5.25,DR,Coffee,,4
+R00028,2024-04-12,Insurance ayment,412.5,DR,Insurance,,4
+R00594,2024-04-13,Weekly groceries,136.36,DR,Grocery,,4
+R00908,2024-04-13,Coffee,5.25,DR,Coffee,,4
+R01193,2024-04-13,Fill up,51.2,DR,Gas Station,,4
+R00736,2024-04-13,Online purchase,22.98,DR,Online Purchase,,4
+R00090,2024-04-13,Paid by check,377.83,DR,Check Payment,,4
+R00555,2024-04-14,Grocery store,78.1,DR,Grocery,,4
+R01277,2024-04-14,Check payment,100.0,DR,Check Payment,,4
+R00446,2024-04-15,Gas station,60.0,DR,Gas Station,,4
+R01175,2024-04-15,Paycheck,2450.0,CR,Payroll,,4
+R00628,2024-04-16,Weekly groceries,68.68,DR,Grocery,,4
+R00968,2024-04-16,Coffee shop,5.75,DR,Coffee,,4
+R00429,2024-04-16,Moved to savings,100.0,DR,Transfer,,4
+R01213,2024-04-17,Online shopping,17.94,DR,Online Purchase,,4
+R00142,2024-04-18,Food shopping,90.56,DR,Grocery,,4
+R00030,2024-04-18,Move to savings,100.0,DR,Transfer,,4
+R00320,2024-04-18,Streaming service,38.17,DR,Subscription,,4
+R00540,2024-04-19,Weekly groceries,173.53,DR,Grocery,,4
+R00504,2024-04-19,Food shopping,101.78,DR,Grocery,,4
+R00397,2024-04-19,Coffee,6.4,DR,Coffee,,4
+R00037,2024-04-19,Online shopping,54.37,DR,Online Purchase,,4
+R00573,2024-04-19,Utilities,48.74,DR,Utility,,4
+R01045,2024-04-20,Groceries,57.42,DR,Grocery,,4
+R00466,2024-04-20,Coffee shop,5.75,DR,Coffee,,4
+R00011,2024-04-20,Fill p,77.15,DR,Gas Station,,4
+R01279,2024-04-20,Online purchase,43.81,DR,Online Purchase,,4
+R00364,2024-04-20,Streaming service,160.51,DR,Check Payment,,4
+R00117,2024-04-20,Electric bill,81.84,DR,Utility,,4
+R00789,2024-04-21,Lunch,42.89,DR,Restaurant,,4
+R00574,2024-04-21,Fill up,50.0,DR,Gas Station,,4
+R00550,2024-04-21,Withdrew cash,20.0,DR,Atm Withdrawal,,4
+R00150,2024-04-21,Water bill,94.86,DR,Utility,,4
+R01073,2024-04-22,Groceries,102.59,DR,Grocery,,4
+R01282,2024-04-23,Restaurant,23.39,DR,Restaurant,,4
+R01089,2024-04-23,Coffee,6.4,DR,Coffee,,4
+R00378,2024-04-23,Online shopping,50.87,DR,Online Purchase,,4
+R00588,2024-04-23,Transfer,250.0,DR,Transfer,,4
+R00221,2024-04-24,Coffee shop,6.4,DR,Coffee,,4
+R01113,2024-04-24,Online shopping,39.86,DR,Online Purchase,,4
+R00078,2024-04-25,Dinner out,51.62,DR,Restaurant,,4
+R00946,2024-04-25,Coffee shop,5.75,DR,Coffee,,4
+R00912,2024-04-25,Fuel,34.75,DR,Gas Station,,4
+R00065,2024-04-25,Gas,53.5,DR,Gas Station,,4
+R00295,2024-04-25,Amazon order,56.02,DR,Online Purchase,,4
+R00235,2024-04-26,Fill up,50.0,DR,Gas Station,,4
+R00676,2024-04-27,Other expense,47.91,DR,Miscellaneous,Unclear transaction,4
+R00765,2024-04-27,Grocery store,52.12,DR,Grocery,,4
+R00384,2024-04-27,Lunch,49.1,DR,Restaurant,,4
+R00911,2024-04-27,Restaurant,31.54,DR,Restaurant,,4
+R00817,2024-04-27,Lunch,48.87,DR,Restaurant,,4
+R00850,2024-04-27,Online shopping,40.37,DR,Online Purchase,,4
+R00415,2024-04-27,Amazon order,45.53,DR,Online Purchase,,4
+R00182,2024-04-27,Move to savings,100.0,DR,Transfer,,4
+R00176,2024-04-28,Grocery store,96.88,DR,Grocery,,4
+R00135,2024-04-28,Restaurant,117.48,DR,Restaurant,,4
+R01005,2024-04-29,Coffee shop,5.75,DR,Coffee,,4
+R01265,2024-04-29,Amazon order,29.85,DR,Online Purchase,,4
+R00720,2024-04-30,Lunch,63.91,DR,Restaurant,,4
+R00267,2024-04-30,Coffee,6.4,DR,Coffee,,4
+R00041,2024-04-30,Monthly charge,12.0,DR,Bank Fee,,4
+R01149,2024-05-01,Groceries,74.78,DR,Grocery,,5
+R00246,2024-05-01,Fuel,76.98,DR,Gas Station,,5
+R00996,2024-05-01,ATM cash,75.89,DR,Gas Station,,5
+R00297,2024-05-01,Paycheck,2450.0,CR,Payroll,,5
+R00118,2024-05-02,Online shopping,31.94,DR,Online Purchase,,5
+R00256,2024-05-02,Transfer,500.0,DR,Transfer,,5
+R01029,2024-05-02,Rent,1850.0,DR,Rent,,5
+R00277,2024-05-03,Lunch,53.4,DR,Restaurant,,5
+R01166,2024-05-03,Coffee shop,6.4,DR,Coffee,,5
+R01165,2024-05-03,Fill up,50.0,DR,Gas Station,,5
+R00483,2024-05-03,Fill up,40.0,DR,Gas Station,,5
+R00805,2024-05-04,Eating out,20.31,DR,Restaurant,,5
+R01286,2024-05-04,Dinner out,57.18,DR,Restaurant,,5
+R01123,2024-05-04,Internal transfer,249.98,DR,Transfer,,5
+R00526,2024-05-04,Transfer,15.49,DR,Subscription,,5
+R00629,2024-05-05,Grocery store,141.32,DR,Grocery,,5
+R00281,2024-05-05,Food shopping,25.83,DR,Grocery,,5
+R00525,2024-05-05,Withdrew cash,20.0,DR,Atm Withdrawal,,5
+R00470,2024-05-06,Weekly groceries,110.35,DR,Grocery,,5
+R00646,2024-05-06,Food shopping,138.35,DR,Grocery,,5
+R01188,2024-05-06,Weekly groceries,78.51,DR,Grocery,,5
+R00451,2024-05-06,Online purchase,36.92,DR,Online Purchase,,5
+R00174,2024-05-06,Move to savings,100.0,DR,Transfer,,5
+R00654,2024-05-07,Eating out,48.26,DR,Restaurant,,5
+R01056,2024-05-08,Grocery store,88.82,DR,Grocery,,5
+R00162,2024-05-08,Eating out,109.88,DR,Restaurant,,5
+R00809,2024-05-08,Dinner out,32.17,DR,Restaurant,,5
+R00428,2024-05-08,Morning coffee,5.25,DR,Coffee,,5
+R00040,2024-05-08,Amazon order,45.54,DR,Online Purchase,,5
+R01137,2024-05-09,Weekly groceries,187.33,DR,Grocery,,5
+R00585,2024-05-09,Restaurant,33.91,DR,Restaurant,,5
+R00386,2024-05-09,Coffee,5.25,DR,Coffee,,5
+R00603,2024-05-11,Food shopping,48.42,DR,Grocery,,5
+R00032,2024-05-11,Withdrew cash,20.0,DR,Atm Withdrawal,,5
+R00360,2024-05-11,Cash,200.0,DR,Atm Withdrawal,,5
+R00491,2024-05-11,Coffee,10.99,DR,Subscription,,5
+R00532,2024-05-11,Health insurance,247.31,DR,Insurance,,5
+R01170,2024-05-12,Car nsurance,412.5,DR,Insurance,,5
+R01119,2024-05-13,Dinner out,87.78,DR,Restaurant,,5
+R00464,2024-05-13,Eating out,29.0,DR,Restaurant,,5
+R00521,2024-05-14,Groceries,36.09,DR,Grocery,,5
+R00835,2024-05-14,Other expense,5.25,DR,Miscellaneous,Unclear transaction,5
+R00143,2024-05-14,Withdrew cash,200.0,DR,Atm Withdrawal,,5
+R00270,2024-05-15,Rent,75.62,DR,Grocery,,5
+R00502,2024-05-15,Food shopping,117.92,DR,Grocery,,5
+R00562,2024-05-15,Eating out,75.94,DR,Restaurant,,5
+R00104,2024-05-15,Salary,2450.0,CR,Payroll,,5
+R00846,2024-05-16,Food shopping,44.15,DR,Grocery,,5
+R01088,2024-05-16,Grocery store,116.36,DR,Grocery,,5
+R00735,2024-05-16,Groceries,90.13,DR,Grocery,,5
+R00941,2024-05-16,Restaurant,29.93,DR,Restaurant,,5
+R01235,2024-05-17,Grocery store,97.19,DR,Grocery,,5
+R00796,2024-05-18,Coffee,5.75,DR,Coffee,,5
+R01067,2024-05-18,Coffee shop,4.5,DR,Coffee,,5
+R00711,2024-05-18,Gym,38.17,DR,Subscription,,5
+R00992,2024-05-19,Water bill,41.11,DR,Utility,,5
+R00048,2024-05-20,Grocery store,75.49,DR,Grocery,,5
+R00410,2024-05-20,Gas bill,71.31,DR,Utility,,5
+R00036,2024-05-21,Food shopping,51.8,DR,Grocery,,5
+R00035,2024-05-21,Car insurance,68.15,DR,Grocery,,5
+R00404,2024-05-21,Eating out,48.61,DR,Restaurant,,5
+R01259,2024-05-21,Cash,60.0,DR,Atm Withdrawal,,5
+R00606,2024-05-21,Water bill,174.77,DR,Utility,,5
+R00111,2024-05-22,Food hopping,77.13,DR,Grocery,,5
+R00837,2024-05-22,Grocery store,62.71,DR,Grocery,,5
+R01001,2024-05-22,Weekly groceries,52.47,DR,Grocery,,5
+R00794,2024-05-22,Groceries,122.03,DR,Grocery,,5
+R01274,2024-05-23,Lunch,60.03,DR,Restaurant,,5
+R01174,2024-05-24,Online purchase,87.81,DR,Online Purchase,,5
+R00478,2024-05-24,Moved o savings,100.0,DR,Transfer,,5
+R00707,2024-05-25,Lunch,22.04,DR,Restaurant,,5
+R00813,2024-05-25,Fill up,70.23,DR,Gas Station,,5
+R00686,2024-05-25,Fuel,77.33,DR,Gas Station,,5
+R00812,2024-05-25,Moved to savings,200.0,DR,Transfer,,5
+R00994,2024-05-25,Transfer,500.0,DR,Transfer,,5
+R00522,2024-05-26,Weekly groceries,37.08,DR,Grocery,,5
+R00538,2024-05-26,Lunch,15.02,DR,Restaurant,,5
+R00505,2024-05-26,Check paymnt,50.0,DR,Check Payment,,5
+R00649,2024-05-27,Groceries,102.32,DR,Grocery,,5
+R00561,2024-05-27,Weekly groceries,49.6,DR,Grocery,,5
+R00622,2024-05-27,Weekly groceries,73.0,DR,Grocery,,5
+R00759,2024-05-27,Dinner out,49.73,DR,Restaurant,,5
+R00752,2024-05-27,Cofee,5.75,DR,Coffee,,5
+R01194,2024-05-27,Morning coffee,6.4,DR,Coffee,,5
+R01186,2024-05-27,Amazon order,103.63,DR,Online Purchase,,5
+R01007,2024-05-28,Coffee shop,6.4,DR,Coffee,,5
+R00782,2024-05-28,Fuel,33.0,DR,Gas Station,,5
+R00079,2024-05-28,Cash,200.0,DR,Atm Withdrawal,,5
+R00324,2024-05-29,Eating out,61.07,DR,Restaurant,,5
+R00432,2024-05-29,Online shopping,105.24,DR,Online Purchase,,5
+R00674,2024-05-29,Online shopping,112.07,DR,Online Purchase,,5
+R00623,2024-05-31,Fill up,50.0,DR,Gas Station,,5
+R00457,2024-05-31,Gas station,60.0,DR,Gas Station,,5
+R00257,2024-05-31,Move to savings,100.0,DR,Transfer,,5
+R00983,2024-05-31,Monthly charge,11.95,DR,Bank Fee,,5
+R00915,2024-06-01,Amazon order,13.03,DR,Online Purchase,,6
+R01054,2024-06-01,Transfer,100.0,DR,Transfer,,6
+R00937,2024-06-01,Monthly salary,2450.0,CR,Payroll,,6
+R00340,2024-06-02,Grocery store,107.68,DR,Grocery,,6
+R00784,2024-06-02,Groceries,57.16,DR,Restaurant,,6
+R00274,2024-06-02,Internal transfer,200.0,DR,Transfer,,6
+R00134,2024-06-02,Rent,1850.0,DR,Rent,,6
+R00995,2024-06-03,Food shopping,46.26,DR,Grocery,,6
+R00627,2024-06-03,Grocery store,205.02,DR,Grocery,,6
+R01244,2024-06-03,Weekly groceries,94.99,DR,Grocery,,6
+R01253,2024-06-03,Dinner out,82.23,DR,Restaurant,,6
+R01158,2024-06-03,Online shopping,14.08,DR,Online Purchase,,6
+R00616,2024-06-03,Online shopping,147.5,DR,Online Purchase,,6
+R00956,2024-06-04,Lunch,42.77,DR,Restaurant,,6
+R01122,2024-06-04,Lunch,56.41,DR,Restaurant,,6
+R00851,2024-06-04,Gas station,60.0,DR,Gas Station,,6
+R00247,2024-06-04,Streaming srvice,15.49,DR,Subscription,,6
+R00723,2024-06-05,Check #3019,60.8,DR,Check Payment,,6
+R00034,2024-06-07,Restaurant,40.65,DR,Restaurant,,6
+R00047,2024-06-07,Eating out,39.05,DR,Restaurant,,6
+R01038,2024-06-07,Dinnerout,12.33,DR,Restaurant,,6
+R00831,2024-06-07,Check #3021,269.12,DR,Check Payment,,6
+R00495,2024-06-08,Food shopping,66.97,DR,Grocery,,6
+R00619,2024-06-08,Fil up,50.0,DR,Gas Station,,6
+R00264,2024-06-08,Cash,200.0,DR,Atm Withdrawal,,6
+R00872,2024-06-09,Restaurant,65.44,DR,Restaurant,,6
+R00761,2024-06-09,Morning coffee,6.4,DR,Coffee,,6
+R01246,2024-06-09,Bank fee,500.0,DR,Transfer,,6
+R00389,2024-06-10,Dinner out,47.37,DR,Restaurant,,6
+R00597,2024-06-10,Cash withdawal,100.0,DR,Atm Withdrawal,,6
+R00802,2024-06-10,Cash withdrawal,20.0,DR,Atm Withdrawal,,6
+R01066,2024-06-11,Weekly groceries,150.23,DR,Grocery,,6
+R00240,2024-06-11,Dinner out,8.43,DR,Restaurant,,6
+R00523,2024-06-11,Morning coffee,5.25,DR,Coffee,,6
+R00985,2024-06-11,Online purchase,34.17,DR,Online Purchase,,6
+R00124,2024-06-11,Music subscription,10.99,DR,Subscription,,6
+R00475,2024-06-11,Health insurance,247.31,DR,Insurance,,6
+R00839,2024-06-12,Insurance payment,412.5,DR,Insurance,,6
+R00409,2024-06-13,Streaming service,24.88,DR,Restaurant,,6
+R00367,2024-06-13,Morning coffee,4.5,DR,Coffee,,6
+R00201,2024-06-13,Fuel,60.78,DR,Gas Station,,6
+R00254,2024-06-13,Withdrew cash,40.03,DR,Atm Withdrawal,,6
+R00671,2024-06-13,Move to savings,200.0,DR,Transfer,,6
+R00101,2024-06-13,Check #3020,82.79,DR,Check Payment,,6
+R01233,2024-06-14,Fill up,30.43,DR,Gas Station,,6
+R00203,2024-06-15,Coffee,5.25,DR,Coffee,,6
+R00024,2024-06-15,Cash withdrawal,20.0,DR,Atm Withdrawal,,6
+R00334,2024-06-15,Cash,200.0,DR,Atm Withdrawal,,6
+R00051,2024-06-15,Monthly salary,2450.0,CR,Payroll,,6
+R00847,2024-06-16,Dinner out,30.92,DR,Restaurant,,6
+R00009,2024-06-16,Amazon order,344.57,DR,Online Purchase,,6
+R00259,2024-06-16,Amazon order,13.88,DR,Online Purchase,,6
+R00326,2024-06-16,Onlie purchase,47.76,DR,Online Purchase,,6
+R01019,2024-06-16,Cash withdrawal,40.0,DR,Atm Withdrawal,,6
+R00336,2024-06-17,Internal transfer,500.0,DR,Transfer,,6
+R00935,2024-06-17,Move to avings,500.0,DR,Transfer,,6
+R00688,2024-06-17,Check #3022,50.0,DR,Check Payment,,6
+R00001,2024-06-18,Groceries,136.22,DR,Grocery,,6
+R00964,2024-06-18,Electric bill,79.51,DR,Grocery,,6
+R01209,2024-06-18,Other expense,107.65,DR,Miscellaneous,Unclear transaction,6
+R00269,2024-06-18,Gym,38.17,DR,Subscription,,6
+R01197,2024-06-19,Grocery store,96.21,DR,Grocery,,6
+R01207,2024-06-19,Groceries,128.09,DR,Grocery,,6
+R00353,2024-06-19,Utilities,74.62,DR,Utility,,6
+R00106,2024-06-20,Weekly groceries,68.64,DR,Grocery,,6
+R00860,2024-06-20,Eating out,64.47,DR,Restaurant,,6
+R00614,2024-06-20,Coffee,5.25,DR,Coffee,,6
+R00620,2024-06-20,Water bill,126.19,DR,Utility,,6
+R00731,2024-06-21,Weekly groceries,90.89,DR,Grocery,,6
+R01225,2024-06-21,Eating out,30.62,DR,Restaurant,,6
+R00795,2024-06-21,Morning coffee,5.75,DR,Coffee,,6
+R00506,2024-06-21,Coffee,4.5,DR,Coffee,,6
+R00744,2024-06-21,Gas station,44.05,DR,Gas Station,,6
+R00827,2024-06-21,Gasbill,122.91,DR,Utility,,6
+R00342,2024-06-22,Groceries,34.67,DR,Grocery,,6
+R00407,2024-06-22,Grocery store,124.76,DR,Grocery,,6
+R00798,2024-06-22,Lunch,33.73,DR,Restaurant,,6
+R00499,2024-06-22,Lunch,41.98,DR,Restaurant,,6
+R00454,2024-06-23,Groceries,113.07,DR,Grocery,,6
+R00958,2024-06-23,Weekly groceries,75.79,DR,Grocery,,6
+R00286,2024-06-23,Morning coffee,5.25,DR,Coffee,,6
+R00590,2024-06-23,Withdrew cash,40.0,DR,Atm Withdrawal,,6
+R00391,2024-06-24,Morning coffee,5.8,DR,Coffee,,6
+R00318,2024-06-25,Fill up,33.48,DR,Restaurant,,6
+R00184,2024-06-25,Lunch,50.31,DR,Restaurant,,6
+R01185,2024-06-25,Eating out,98.81,DR,Restaurant,,6
+R00659,2024-06-25,Coffee,6.4,DR,Coffee,,6
+R00086,2024-06-25,Online purchase,53.78,DR,Online Purchase,,6
+R01024,2024-06-25,Amazon order,13.46,DR,Online Purchase,,6
+R00944,2024-06-25,Withdrew cash,60.0,DR,Atm Withdrawal,,6
+R01099,2024-06-26,Restaurant,40.46,DR,Restaurant,,6
+R01221,2024-06-26,Dinner out,25.15,DR,Restaurant,,6
+R01191,2024-06-26,Online purchase,37.52,DR,Online Purchase,,6
+R00697,2024-06-27,Weekly groceries,62.24,DR,Grocery,,6
+R00950,2024-06-27,Morning coffee,5.25,DR,Coffee,,6
+R00232,2024-06-27,Amazon order,17.27,DR,Online Purchase,,6
+R00979,2024-06-28,Grocery store,44.89,DR,Grocery,,6
+R00441,2024-06-28,Food shopping,64.71,DR,Grocery,,6
+R00936,2024-06-28,Dinner out,62.61,DR,Restaurant,,6
+R01267,2024-06-28,Fuel,47.6,DR,Gas Station,,6
+R00108,2024-06-28,Fuel,60.0,DR,Gas Station,,6
+R01237,2024-06-29,Dinner out,31.95,DR,Restaurant,,6
+R01144,2024-06-29,Morning coffee,5.75,DR,Coffee,,6
+R01145,2024-06-29,Coffee shop,5.25,DR,Coffee,,6
+R00102,2024-06-29,Online shopping,10.18,DR,Online Purchase,,6
+R00070,2024-06-29,Cash,200.0,DR,Atm Withdrawal,,6
+R01281,2024-06-30,Gas,57.83,DR,Gas Station,,6
+R01126,2024-06-30,Bank fee,12.0,DR,Bank Fee,,6
+R01133,2024-07-01,Groceries,48.28,DR,Grocery,,7
+R00974,2024-07-01,Lunch,34.23,DR,Restaurant,,7
+R00191,2024-07-01,Lunch,57.44,DR,Restaurant,,7
+R00288,2024-07-01,Amazon order,25.83,DR,Online Purchase,,7
+R00164,2024-07-01,Paycheck,2450.0,CR,Payroll,,7
+R00694,2024-07-02,Lunch,15.55,DR,Restaurant,,7
+R00230,2024-07-02,Coffee shop,6.4,DR,Coffee,,7
+R01223,2024-07-02,Transfer,99.95,DR,Transfer,,7
+R00103,2024-07-02,Rent,1850.0,DR,Rent,,7
+R00749,2024-07-03,Online purchase,43.41,DR,Online Purchase,,7
+R00829,2024-07-03,Online purchase,77.14,DR,Online Purchase,,7
+R00350,2024-07-03,Cash withdrawal,200.0,DR,Atm Withdrawal,,7
+R00873,2024-07-04,Eating out,34.39,DR,Restaurant,,7
+R00068,2024-07-04,Fuel,66.05,DR,Gas Station,,7
+R01111,2024-07-04,Music subscription,15.49,DR,Subscription,,7
+R01172,2024-07-05,Coffee shop,6.4,DR,Coffee,,7
+R00660,2024-07-05,Morning cofee,5.75,DR,Coffee,,7
+R01147,2024-07-06,Weekly groceries,43.26,DR,Grocery,,7
+R00927,2024-07-06,Food shopping,120.17,DR,Grocery,,7
+R00766,2024-07-06,Morning coffee,5.25,DR,Coffee,,7
+R00337,2024-07-06,Withdrew cash,100.0,DR,Atm Withdrawal,,7
+R00560,2024-07-07,Lunch,29.38,DR,Restaurant,,7
+R00888,2024-07-07,Amazon order,38.53,DR,Online Purchase,,7
+R01034,2024-07-07,Cash withdrawal,40.0,DR,Atm Withdrawal,,7
+R00042,2024-07-08,Food shopping,78.78,DR,Grocery,,7
+R00082,2024-07-08,Grocery store,38.86,DR,Grocery,,7
+R00382,2024-07-08,Dinner out,21.81,DR,Restaurant,,7
+R00897,2024-07-08,Dinner out,108.32,DR,Restaurant,,7
+R00981,2024-07-08,Restaurant,41.47,DR,Restaurant,,7
+R00314,2024-07-09,Transfer,200.0,DR,Transfer,,7
+R00714,2024-07-10,Food shopping,89.21,DR,Grocery,,7
+R00861,2024-07-10,Dinner out,29.97,DR,Restaurant,,7
+R00306,2024-07-10,Eating out,51.87,DR,Restaurant,,7
+R00349,2024-07-11,Grceries,187.83,DR,Grocery,,7
+R00211,2024-07-11,Fuel,40.0,DR,Gas Station,,7
+R01037,2024-07-11,Internal transfer,500.0,DR,Transfer,,7
+R00568,2024-07-11,Bank fee,50.0,DR,Check Payment,,7
+R00212,2024-07-11,Streaming service,10.99,DR,Subscription,,7
+R01227,2024-07-11,Health insurance,247.31,DR,Insurance,,7
+R01156,2024-07-12,Coffee,4.5,DR,Coffee,,7
+R00420,2024-07-12,Coffee shop,5.25,DR,Coffee,,7
+R00056,2024-07-12,Morning coffee,5.75,DR,Coffee,,7
+R00819,2024-07-12,Online shopping,15.34,DR,Online Purchase,,7
+R00997,2024-07-12,Car insurance,412.5,DR,Insurance,,7
+R00192,2024-07-13,Food shopping,143.2,DR,Grocery,,7
+R00046,2024-07-13,Coffee,4.5,DR,Coffee,,7
+R00341,2024-07-13,Moved to savings,100.0,DR,Transfer,,7
+R00463,2024-07-14,Lunch,42.29,DR,Restaurant,,7
+R00563,2024-07-14,Lunch,20.89,DR,Restaurant,,7
+R00399,2024-07-14,Coffee shop,4.5,DR,Coffee,,7
+R00388,2024-07-14,ATM cash,60.0,DR,Atm Withdrawal,,7
+R00732,2024-07-15,Cofee shop,5.25,DR,Coffee,,7
+R00418,2024-07-15,Fuel,41.04,DR,Gas Station,,7
+R00482,2024-07-15,Gas,59.17,DR,Gas Station,,7
+R00593,2024-07-15,Cash withdrawal,100.0,DR,Atm Withdrawal,,7
+R00779,2024-07-15,Withdrew cash,200.0,DR,Atm Withdrawal,,7
+R00972,2024-07-15,Paycheck,2450.0,CR,Payroll,,7
+R01132,2024-07-16,Restaurant,24.27,DR,Restaurant,,7
+R01231,2024-07-16,Online purchase,137.92,DR,Online Purchase,,7
+R00014,2024-07-16,Amazon order,35.33,DR,Online Purchase,,7
+R00514,2024-07-16,Check #3026,188.3,DR,Check Payment,,7
+R00698,2024-07-17,Fill up,53.47,DR,Gas Station,,7
+R01017,2024-07-17,Amazon order,42.66,DR,Online Purchase,,7
+R01091,2024-07-17,Transfer,500.0,DR,Transfer,,7
+R01041,2024-07-18,Lunch,70.95,DR,Restaurant,,7
+R00413,2024-07-18,Eating out,40.69,DR,Restaurant,,7
+R01152,2024-07-18,Coffee shop,5.75,DR,Coffee,,7
+R00558,2024-07-18,Withdrew cash,100.0,DR,Atm Withdrawal,,7
+R00249,2024-07-18,Other expense,100.0,DR,Miscellaneous,Unclear transaction,7
+R00128,2024-07-18,Moved to savings,250.0,DR,Transfer,,7
+R01210,2024-07-18,Music subscription,38.17,DR,Subscription,,7
+R00875,2024-07-19,Groceries,101.29,DR,Grocery,,7
+R00692,2024-07-19,Fill up,46.07,DR,Gas Station,,7
+R01072,2024-07-19,Electric bill,99.85,DR,Utility,,7
+R01125,2024-07-20,Gas,60.0,DR,Gas Station,,7
+R00691,2024-07-20,Online purchase,51.72,DR,Online Purchase,,7
+R01248,2024-07-21,Groceries,35.6,DR,Grocery,,7
+R00910,2024-07-21,Groceries,57.54,DR,Grocery,,7
+R01157,2024-07-21,Eating out,50.81,DR,Restaurant,,7
+R00785,2024-07-21,Moning coffee,5.25,DR,Coffee,,7
+R00933,2024-07-21,Fuel,67.4,DR,Gas Station,,7
+R00886,2024-07-21,Gas station,70.65,DR,Gas Station,,7
+R00177,2024-07-21,Online shopping,36.46,DR,Online Purchase,,7
+R00754,2024-07-21,Online purchase,40.17,DR,Online Purchase,,7
+R01219,2024-07-21,Gas bill,136.84,DR,Utility,,7
+R00445,2024-07-22,Food shopping,196.21,DR,Grocery,,7
+R00139,2024-07-22,Dinner out,152.32,DR,Restaurant,,7
+R01264,2024-07-22,Dinner out,18.43,DR,Restaurant,,7
+R00007,2024-07-22,Morning coffee,6.4,DR,Coffee,,7
+R00842,2024-07-22,Withdrew cash,20.0,DR,Atm Withdrawal,,7
+R00197,2024-07-23,Lunch,35.05,DR,Restaurant,,7
+R01154,2024-07-23,Morning coffee,6.4,DR,Coffee,,7
+R00401,2024-07-23,Online shopping,60.43,DR,Online Purchase,,7
+R00158,2024-07-23,Online shopping,264.02,DR,Online Purchase,,7
+R00640,2024-07-23,Transfer,100.0,DR,Transfer,,7
+R00704,2024-07-23,Check payment,210.23,DR,Check Payment,,7
+R00310,2024-07-23,Check payment,163.3,DR,Check Payment,,7
+R00773,2024-07-24,Dinner out,28.27,DR,Restaurant,,7
+R00354,2024-07-26,Groceries,59.21,DR,Grocery,,7
+R00781,2024-07-26,Grocery store,63.06,DR,Grocery,,7
+R00768,2024-07-26,Morning coffee,6.4,DR,Coffee,,7
+R00762,2024-07-27,Weekly groceries,54.55,DR,Grocery,,7
+R00098,2024-07-29,Coffee,6.4,DR,Coffee,,7
+R01000,2024-07-29,Fuel,60.0,DR,Gas Station,,7
+R00679,2024-07-29,Online purchase,9.66,DR,Online Purchase,,7
+R00596,2024-07-30,Grocery store,33.31,DR,Grocery,,7
+R01035,2024-07-30,Eating out,33.14,DR,Restaurant,,7
+R00000,2024-07-30,Coffee shop,5.25,DR,Coffee,,7
+R00178,2024-07-30,Morning coffee,5.25,DR,Coffee,,7
+R00503,2024-07-31,Grocery store,35.38,DR,Grocery,,7
+R00693,2024-07-31,Dinner out,28.28,DR,Restaurant,,7
+R00140,2024-07-31,Morning coffee,5.25,DR,Coffee,,7
+R00317,2024-07-31,Coffee shop,5.75,DR,Coffee,,7
+R00148,2024-07-31,Online shopping,72.73,DR,Online Purchase,,7
+R00049,2024-07-31,ATM cash,200.0,DR,Atm Withdrawal,,7
+R00181,2024-07-31,Internal transfer,200.0,DR,Transfer,,7
+R01094,2024-07-31,Other expense,12.0,DR,Miscellaneous,Unclear transaction,7
+R00119,2024-08-01,Lunch,112.24,DR,Restaurant,,8
+R01097,2024-08-01,ATM cash,200.0,DR,Atm Withdrawal,,8
+R00600,2024-08-01,Paycheck,2450.0,CR,Payroll,,8
+R00673,2024-08-02,Groceries,89.95,DR,Grocery,,8
+R01108,2024-08-02,Morning coffee,4.5,DR,Coffee,,8
+R01198,2024-08-02,Coffee,5.25,DR,Coffee,,8
+R01241,2024-08-02,Fuel,40.0,DR,Gas Station,,8
+R00583,2024-08-02,Amazon order,7.29,DR,Online Purchase,,8
+R00169,2024-08-02,Amazon order,22.73,DR,Online Purchase,,8
+R00874,2024-08-02,Rent,1850.0,DR,Rent,,8
+R00161,2024-08-03,Restaurant,52.11,DR,Restaurant,,8
+R01178,2024-08-03,Fill up,40.0,DR,Gas Station,,8
+R00424,2024-08-03,Online purchase,8.11,DR,Online Purchase,,8
+R00727,2024-08-03,ATM cash,200.0,DR,Atm Withdrawal,,8
+R00638,2024-08-03,Chec payment,48.71,DR,Check Payment,,8
+R01026,2024-08-04,Food shopping,71.52,DR,Grocery,,8
+R01168,2024-08-04,Groceries,75.94,DR,Grocery,,8
+R00213,2024-08-04,Gym,15.49,DR,Subscription,,8
+R01249,2024-08-05,Weekly groceries,92.6,DR,Grocery,,8
+R00492,2024-08-05,Grocery store,236.88,DR,Grocery,,8
+R00535,2024-08-05,Lunch,39.77,DR,Restaurant,,8
+R01245,2024-08-05,Lunch,20.83,DR,Restaurant,,8
+R01180,2024-08-05,Check #3026,44.32,DR,Restaurant,,8
+R00273,2024-08-06,Fuel,50.0,DR,Gas Station,,8
+R01092,2024-08-06,Moved to savings,250.01,DR,Transfer,,8
+R00394,2024-08-07,Grocery store,95.49,DR,Grocery,,8
+R00699,2024-08-07,Groceries,87.37,DR,Grocery,,8
+R01159,2024-08-07,Amazon order,181.26,DR,Online Purchase,,8
+R00920,2024-08-08,Weekly groceries,54.67,DR,Grocery,,8
+R00373,2024-08-08,Weekly groceries,57.12,DR,Grocery,,8
+R00661,2024-08-09,Groceries,77.06,DR,Grocery,,8
+R00496,2024-08-09,Dinner out,66.9,DR,Restaurant,,8
+R00180,2024-08-09,Dinner out,29.76,DR,Restaurant,,8
+R00017,2024-08-09,Dinner out,47.01,DR,Restaurant,,8
+R01288,2024-08-09,Rent,5.25,DR,Coffee,,8
+R00617,2024-08-09,Gas station,40.0,DR,Gas Station,,8
+R00925,2024-08-09,Online shopping,39.33,DR,Online Purchase,,8
+R00584,2024-08-09,Move to savings,250.0,DR,Transfer,,8
+R00250,2024-08-10,Restaurant,11.46,DR,Restaurant,,8
+R00421,2024-08-10,Restaurant,54.25,DR,Restaurant,,8
+R00581,2024-08-10,Dinner out,108.56,DR,Restaurant,,8
+R01189,2024-08-10,Coffee shop,6.4,DR,Coffee,,8
+R00662,2024-08-11,Lunch,74.26,DR,Restaurant,,8
+R01217,2024-08-11,Lunch,75.12,DR,Restaurant,,8
+R01059,2024-08-11,Dinner out,10.99,DR,Subscription,,8
+R01220,2024-08-11,Insurance payment,247.31,DR,Insurance,,8
+R00940,2024-08-12,Weekly groceries,105.87,DR,Grocery,,8
+R00233,2024-08-12,Dinner out,125.61,DR,Restaurant,,8
+R00220,2024-08-12,Fuel,40.0,DR,Gas Station,,8
+R01230,2024-08-12,Health insurance,412.5,DR,Insurance,,8
+R00758,2024-08-13,Weekly groceries,76.29,DR,Grocery,,8
+R00453,2024-08-13,Food shopping,41.28,DR,Grocery,,8
+R00834,2024-08-13,Moved to savings,500.0,DR,Transfer,,8
+R00145,2024-08-14,Grocery store,173.23,DR,Grocery,,8
+R00810,2024-08-14,Morning coffee,6.4,DR,Coffee,,8
+R00967,2024-08-14,Gas,51.03,DR,Gas Station,,8
+R00126,2024-08-14,Cash withdrawal,20.0,DR,Atm Withdrawal,,8
+R00546,2024-08-15,Online shopping,46.41,DR,Online Purchase,,8
+R00477,2024-08-15,ATM cash,40.0,DR,Atm Withdrawal,,8
+R00031,2024-08-15,Paycheck,2450.0,CR,Payroll,,8
+R00764,2024-08-16,Dinner out,50.76,DR,Restaurant,,8
+R01268,2024-08-16,Online purchase,40.69,DR,Online Purchase,,8
+R00753,2024-08-17,Restaurant,14.46,DR,Restaurant,,8
+R00081,2024-08-17,Lunch,77.23,DR,Restaurant,,8
+R01141,2024-08-17,Lunch,73.35,DR,Restaurant,,8
+R00965,2024-08-17,Gas,44.7,DR,Gas Station,,8
+R01083,2024-08-17,Withdrew cash,40.0,DR,Atm Withdrawal,,8
+R00313,2024-08-18,Groceries,54.38,DR,Grocery,,8
+R00893,2024-08-18,Gas station,40.0,DR,Gas Station,,8
+R01104,2024-08-18,Music subscription,38.18,DR,Subscription,,8
+R00663,2024-08-19,Restaurant,77.19,DR,Restaurant,,8
+R00569,2024-08-19,Eating out,63.75,DR,Restaurant,,8
+R00529,2024-08-19,Luch,35.46,DR,Restaurant,,8
+R00159,2024-08-19,Coffee,4.5,DR,Coffee,,8
+R01179,2024-08-19,Coffee,5.25,DR,Coffee,,8
+R00196,2024-08-19,ATM cash,5.25,DR,Coffee,,8
+R00726,2024-08-19,Fuel,50.0,DR,Gas Station,,8
+R00577,2024-08-19,Fuel,63.04,DR,Gas Station,,8
+R00797,2024-08-19,Gas station,77.08,DR,Gas Station,,8
+R00077,2024-08-19,Elctric bill,157.56,DR,Utility,,8
+R01148,2024-08-20,Grocery store,53.14,DR,Grocery,,8
+R00792,2024-08-20,Coffee,5.75,DR,Coffee,,8
+R01006,2024-08-20,Transfer,60.0,DR,Gas Station,,8
+R00626,2024-08-20,Utilities,145.91,DR,Utility,,8
+R00227,2024-08-21,Grocery store,73.65,DR,Grocery,,8
+R01208,2024-08-21,Food shopping,57.55,DR,Grocery,,8
+R00266,2024-08-21,Eating out,39.28,DR,Restaurant,,8
+R00730,2024-08-21,Morning coffee,5.25,DR,Coffee,,8
+R00430,2024-08-21,Gas,60.0,DR,Gas Station,,8
+R00863,2024-08-21,Water bill,72.03,DR,Utility,,8
+R00630,2024-08-22,Transfer,6.4,DR,Coffee,,8
+R00900,2024-08-22,Coffee shop,5.25,DR,Coffee,,8
+R00146,2024-08-22,Fuel,40.0,DR,Gas Station,,8
+R00949,2024-08-23,Eating out,30.98,DR,Restaurant,,8
+R00814,2024-08-23,Coffee,4.5,DR,Coffee,,8
+R00536,2024-08-24,Groceries,99.29,DR,Grocery,,8
+R00107,2024-08-24,Online shopping,38.26,DR,Online Purchase,,8
+R00083,2024-08-24,ATM cah,200.0,DR,Atm Withdrawal,,8
+R00743,2024-08-25,Groceries,77.25,DR,Grocery,,8
+R00539,2024-08-25,Lunch,90.01,DR,Restaurant,,8
+R00885,2024-08-25,Coffee shop,5.25,DR,Coffee,,8
+R00400,2024-08-25,Cash withdrawal,200.0,DR,Atm Withdrawal,,8
+R00954,2024-08-25,Check #3027,110.45,DR,Check Payment,,8
+R00700,2024-08-26,Coffee shop,5.75,DR,Coffee,,8
+R00624,2024-08-26,Moved to savings,500.0,DR,Transfer,,8
+R00565,2024-08-27,Coffee shop,6.4,DR,Coffee,,8
+R00756,2024-08-27,Fill up,55.23,DR,Gas Station,,8
+R00939,2024-08-27,Check payment,279.91,DR,Check Payment,,8
+R00008,2024-08-28,Coffee shop,5.25,DR,Coffee,,8
+R00634,2024-08-28,Gas station,30.76,DR,Gas Station,,8
+R00778,2024-08-28,Online shopping,73.19,DR,Online Purchase,,8
+R00598,2024-08-29,Restaurant,37.5,DR,Restaurant,,8
+R01171,2024-08-29,Dinner out,28.44,DR,Restaurant,,8
+R01294,2024-08-30,Eating out,24.13,DR,Restaurant,,8
+R01095,2024-08-30,Check #3028,91.39,DR,Check Payment,,8
+R00909,2024-08-31,Morning coffee,5.75,DR,Coffee,,8
+R01163,2024-08-31,Gas station,39.75,DR,Gas Station,,8
+R00059,2024-08-31,Fill up,40.0,DR,Gas Station,,8
+R01014,2024-08-31,Streaming service,100.0,DR,Transfer,,8
+R00368,2024-08-31,Bank fee,12.0,DR,Bank Fee,,8
+R00724,2024-09-01,Food shopping,62.2,DR,Grocery,,9
+R01291,2024-09-01,Lunch,14.95,DR,Restaurant,,9
+R00990,2024-09-01,Coffee shop,6.4,DR,Coffee,,9
+R00914,2024-09-01,Monthly salary,2450.0,CR,Payroll,,9
+R00377,2024-09-02,Dinner out,27.94,DR,Restaurant,,9
+R01138,2024-09-02,Fuel,60.0,DR,Gas Station,,9
+R00601,2024-09-02,Rent,1850.0,DR,Rent,,9
+R00473,2024-09-03,Food shoppng,113.53,DR,Grocery,,9
+R01102,2024-09-03,Restaurant,44.0,DR,Restaurant,,9
+R00395,2024-09-03,Fuel,30.3,DR,Gas Station,,9
+R01256,2024-09-03,Online purchase,167.22,DR,Online Purchase,,9
+R01100,2024-09-04,Groceries,65.35,DR,Grocery,,9
+R01226,2024-09-04,Amazon order,201.93,DR,Online Purchase,,9
+R00091,2024-09-04,Cash withdrawal,40.0,DR,Atm Withdrawal,,9
+R00004,2024-09-04,Transfer,200.0,DR,Transfer,,9
+R00690,2024-09-04,Streaming service,15.49,DR,Subscription,,9
+R01031,2024-09-05,Streaming service,62.83,DR,Grocery,,9
+R00057,2024-09-05,Food shopping,61.1,DR,Grocery,,9
+R01201,2024-09-05,Gas,50.0,DR,Gas Station,,9
+R01008,2024-09-05,Moved to savings,200.0,DR,Transfer,,9
+R00366,2024-09-06,Online purchase,9.84,DR,Online Purchase,,9
+R00447,2024-09-06,Online purchase,9.57,DR,Online Purchase,,9
+R00637,2024-09-06,Online purchase,83.78,DR,Online Purchase,,9
+R00185,2024-09-08,Lunch,37.08,DR,Restaurant,,9
+R01032,2024-09-08,Dinner out,32.39,DR,Restaurant,,9
+R00982,2024-09-08,Morning coffee,6.4,DR,Coffee,,9
+R00587,2024-09-08,Coffee shop,5.25,DR,Coffee,,9
+R00363,2024-09-08,Online purchase,45.47,DR,Online Purchase,,9
+R00248,2024-09-09,Weekly groceries,172.97,DR,Grocery,,9
+R01232,2024-09-09,Restaurant,93.25,DR,Restaurant,,9
+R00929,2024-09-09,Restaurant,105.6,DR,Restaurant,,9
+R00199,2024-09-09,Online purchase,33.99,DR,Online Purchase,,9
+R00800,2024-09-10,Morning coffee,5.25,DR,Coffee,,9
+R00486,2024-09-11,Restaurant,37.21,DR,Restaurant,,9
+R00156,2024-09-11,Fill up,40.0,DR,Gas Station,,9
+R00020,2024-09-11,Gas station,31.33,DR,Gas Station,,9
+R00978,2024-09-11,Online purchase,57.22,DR,Online Purchase,,9
+R00791,2024-09-11,Online purchase,60.46,DR,Online Purchase,,9
+R00351,2024-09-11,Streaming service,10.99,DR,Subscription,,9
+R00683,2024-09-11,Car insurance,247.31,DR,Insurance,,9
+R00871,2024-09-12,Food shopping,20.09,DR,Grocery,,9
+R00060,2024-09-12,Insurance payment,412.5,DR,Insurance,,9
+R01011,2024-09-13,Fll up,50.0,DR,Gas Station,,9
+R00283,2024-09-14,Lunch,36.78,DR,Restaurant,,9
+R00689,2024-09-14,Morning coffee,4.5,DR,Coffee,,9
+R01211,2024-09-14,Coffee,6.4,DR,Coffee,,9
+R00490,2024-09-14,Fuel,50.0,DR,Gas Station,,9
+R00513,2024-09-15,Groceries,70.08,DR,Grocery,,9
+R00611,2024-09-15,Groceries,81.4,DR,Grocery,,9
+R00279,2024-09-15,Dinner out,12.31,DR,Restaurant,,9
+R00151,2024-09-15,Coffee,5.25,DR,Coffee,,9
+R00092,2024-09-15,Salary,2450.0,CR,Payroll,,9
+R01184,2024-09-16,Gas station,59.87,DR,Gas Station,,9
+R01117,2024-09-16,Gas station,60.0,DR,Gas Station,,9
+R01096,2024-09-16,Cash withdrawal,60.0,DR,Atm Withdrawal,,9
+R00712,2024-09-17,Weekly groceries,65.7,DR,Grocery,,9
+R01130,2024-09-17,Groceries,96.26,DR,Grocery,,9
+R00307,2024-09-17,Coffee,5.25,DR,Coffee,,9
+R00741,2024-09-17,Coffee,6.4,DR,Coffee,,9
+R00961,2024-09-18,Weekly groceries,39.37,DR,Grocery,,9
+R00183,2024-09-18,Weekly groceries,52.91,DR,Grocery,,9
+R01214,2024-09-18,Other expense,80.34,DR,Miscellaneous,Unclear transaction,9
+R01077,2024-09-18,Check payment,50.0,DR,Check Payment,,9
+R00209,2024-09-18,Check #3035,50.0,DR,Check Payment,,9
+R00044,2024-09-18,Music subscription,38.17,DR,Subscription,,9
+R00868,2024-09-19,Utilities,102.15,DR,Utility,,9
+R00222,2024-09-20,Coffee shop,4.5,DR,Coffee,,9
+R00110,2024-09-20,Gas bill,87.84,DR,Utility,,9
+R00223,2024-09-21,Morning coffee,4.5,DR,Coffee,,9
+R00123,2024-09-21,Gas station,39.4,DR,Gas Station,,9
+R01161,2024-09-21,Online shopping,49.64,DR,Online Purchase,,9
+R00681,2024-09-21,Water bill,102.25,DR,Utility,,9
+R00879,2024-09-22,Restaurant,49.85,DR,Restaurant,,9
+R00265,2024-09-22,Lunch,49.02,DR,Restaurant,,9
+R01275,2024-09-22,Coffee shop,4.5,DR,Coffee,,9
+R00027,2024-09-23,Other expense,58.36,DR,Miscellaneous,Unclear transaction,9
+R00695,2024-09-24,Weekly groceries,42.73,DR,Grocery,,9
+R01218,2024-09-24,Groceries,51.8,DR,Grocery,,9
+R00292,2024-09-24,Withdrew cash,20.0,DR,Atm Withdrawal,,9
+R01020,2024-09-24,Transfer,200.0,DR,Transfer,,9
+R00327,2024-09-25,Weekly groceries,87.74,DR,Grocery,,9
+R01212,2024-09-25,Dinner out,27.19,DR,Restaurant,,9
+R00852,2024-09-25,Lunch,78.47,DR,Restaurant,,9
+R00361,2024-09-25,Coffee,6.4,DR,Coffee,,9
+R00305,2024-09-25,Coffee shop,6.4,DR,Coffee,,9
+R01087,2024-09-26,Lunch,30.19,DR,Restaurant,,9
+R01216,2024-09-26,Trasfer,200.0,DR,Transfer,,9
+R00818,2024-09-26,Paid by check,49.97,DR,Check Payment,,9
+R00658,2024-09-27,Groceries,89.83,DR,Grocery,,9
+R00335,2024-09-27,Gas,50.0,DR,Gas Station,,9
+R00977,2024-09-27,Gas station,41.66,DR,Gas Station,,9
+R00672,2024-09-27,Amazon order,53.14,DR,Online Purchase,,9
+R00984,2024-09-27,ATM cash,60.0,DR,Atm Withdrawal,,9
+R00422,2024-09-28,Groceries,67.51,DR,Grocery,,9
+R00889,2024-09-28,Groceries,33.24,DR,Grocery,,9
+R01110,2024-09-29,Groceries,72.28,DR,Grocery,,9
+R01169,2024-09-29,Other expense,36.02,DR,Miscellaneous,Unclear transaction,9
+R00210,2024-09-29,Bank fee,5.75,DR,Coffee,,9
+R00806,2024-09-29,Fuel,50.42,DR,Gas Station,,9
+R01009,2024-09-29,Online shopping,11.57,DR,Online Purchase,,9
+R00501,2024-09-29,Check #3031,279.04,DR,Check Payment,,9
+R00319,2024-09-30,Fill up,40.0,DR,Gas Station,,9
+R00890,2024-09-30,Fuel,40.0,DR,Gas Station,,9
+R01196,2024-09-30,Bank fe,12.0,DR,Bank Fee,,9
+R00799,2024-10-01,Eating out,77.17,DR,Restaurant,,10
+R00592,2024-10-01,Restaurant,79.68,DR,Restaurant,,10
+R00747,2024-10-01,Morning coffee,6.4,DR,Coffee,,10
+R00923,2024-10-01,Morning coffee,4.5,DR,Coffee,,10
+R00734,2024-10-01,Withdrew cash,60.0,DR,Atm Withdrawal,,10
+R01093,2024-10-01,Monthly salry,2450.0,CR,Payroll,,10
+R01036,2024-10-02,Groceries,73.98,DR,Grocery,,10
+R00347,2024-10-02,Coffee,6.4,DR,Coffee,,10
+R01228,2024-10-02,Gas station,67.35,DR,Gas Station,,10
+R01124,2024-10-02,Online shopping,40.14,DR,Online Purchase,,10
+R00710,2024-10-02,Check payment,118.53,DR,Check Payment,,10
+R01048,2024-10-02,Rent,1850.0,DR,Rent,,10
+R01162,2024-10-03,Weekly groceries,104.68,DR,Grocery,,10
+R00261,2024-10-03,Grocery store,136.77,DR,Grocery,,10
+R00206,2024-10-03,Internal transfer,500.0,DR,Transfer,,10
+R00644,2024-10-03,Paid by check,150.0,DR,Check Payment,,10
+R01136,2024-10-04,Dinner out,69.25,DR,Restaurant,,10
+R00289,2024-10-04,Fill up,49.24,DR,Gas Station,,10
+R01098,2024-10-04,Internal transfer,200.0,DR,Transfer,,10
+R00589,2024-10-04,Music subscription,15.49,DR,Subscription,,10
+R00173,2024-10-05,Morning coffee,5.75,DR,Coffee,,10
+R00687,2024-10-05,Morning coffee,5.75,DR,Coffee,,10
+R00728,2024-10-05,Cash,200.0,DR,Atm Withdrawal,,10
+R00745,2024-10-06,Weekly groceries,60.15,DR,Grocery,,10
+R00260,2024-10-06,Coffee,4.5,DR,Coffee,,10
+R00870,2024-10-06,Morning coffee,6.4,DR,Coffee,,10
+R00635,2024-10-06,Moved to savings,250.0,DR,Transfer,,10
+R01071,2024-10-07,Food shopping,86.24,DR,Grocery,,10
+R00607,2024-10-07,Groceries,107.27,DR,Grocery,,10
+R00516,2024-10-07,Coffee,4.5,DR,Coffee,,10
+R01240,2024-10-07,Coffee shop,5.75,DR,Coffee,,10
+R00485,2024-10-07,Gas station,50.0,DR,Gas Station,,10
+R00301,2024-10-08,Lnch,87.09,DR,Restaurant,,10
+R01025,2024-10-08,Coffee,5.25,DR,Coffee,,10
+R00381,2024-10-08,Gas,40.0,DR,Gas Station,,10
+R00706,2024-10-09,Gas station,43.62,DR,Gas Station,,10
+R00237,2024-10-10,Food shopping,51.58,DR,Grocery,,10
+R01090,2024-10-10,Restaurant,77.9,DR,Restaurant,,10
+R00755,2024-10-10,Electric bill,32.02,DR,Gas Station,,10
+R00877,2024-10-10,Cash,200.0,DR,Atm Withdrawal,,10
+R00093,2024-10-10,Check payment,140.94,DR,Check Payment,,10
+R01252,2024-10-10,Paid by check,43.56,DR,Check Payment,,10
+R01069,2024-10-11,Lunch,24.37,DR,Restaurant,,10
+R00355,2024-10-11,Insurance payment,247.31,DR,Insurance,,10
+R00865,2024-10-12,Lunch,28.36,DR,Restaurant,,10
+R00816,2024-10-12,Morning coffee,6.4,DR,Coffee,,10
+R00471,2024-10-12,Moved to savings,200.0,DR,Transfer,,10
+R01109,2024-10-12,Car insurance,412.5,DR,Insurance,,10
+R00194,2024-10-13,Lunch,25.68,DR,Restaurant,,10
+R00828,2024-10-13,Restaurant,61.2,DR,Restaurant,,10
+R00987,2024-10-13,Dinner out,36.24,DR,Restaurant,,10
+R00898,2024-10-13,Lunch,84.8,DR,Restaurant,,10
+R00928,2024-10-13,Dinner out,19.47,DR,Restaurant,,10
+R00224,2024-10-13,Withdrew cash,60.0,DR,Atm Withdrawal,,10
+R00960,2024-10-13,ATM cash,60.0,DR,Atm Withdrawal,,10
+R00121,2024-10-13,Move to savings,500.0,DR,Transfer,,10
+R01150,2024-10-15,Moved to savings,100.0,DR,Transfer,,10
+R00836,2024-10-15,Move to savings,100.0,DR,Transfer,,10
+R01283,2024-10-15,Monthly salary,2450.0,CR,Payroll,,10
+R00275,2024-10-16,Grocery store,84.03,DR,Grocery,,10
+R00242,2024-10-17,Other expense,6.4,DR,Miscellaneous,Unclear transaction,10
+R00357,2024-10-18,Restaurant,107.79,DR,Restaurant,,10
+R01068,2024-10-18,Paid by check,150.0,DR,Check Payment,,10
+R00801,2024-10-18,Streaming service,38.17,DR,Subscription,,10
+R00345,2024-10-19,Grocery store,28.0,DR,Grocery,,10
+R00657,2024-10-19,Restaurant,33.29,DR,Restaurant,,10
+R00133,2024-10-19,Dinner out,11.91,DR,Restaurant,,10
+R00467,2024-10-19,Fill up,72.82,DR,Gas Station,,10
+R00919,2024-10-19,Cash,200.0,DR,Atm Withdrawal,,10
+R00076,2024-10-19,Check payment,428.84,DR,Check Payment,,10
+R01142,2024-10-19,Water bill,67.16,DR,Utility,,10
+R00010,2024-10-20,Weekly groceries,122.35,DR,Grocery,,10
+R00423,2024-10-20,Eating out,27.64,DR,Restaurant,,10
+R00848,2024-10-20,Eating out,23.02,DR,Restaurant,,10
+R00859,2024-10-20,Morning coffee,5.75,DR,Coffee,,10
+R00200,2024-10-20,Online purchase,105.77,DR,Online Purchase,,10
+R00253,2024-10-20,Water bill,115.34,DR,Utility,,10
+R00387,2024-10-21,Ga station,40.0,DR,Gas Station,,10
+R00746,2024-10-21,Electric bill,74.43,DR,Utility,,10
+R00783,2024-10-22,Restaurant,20.48,DR,Restaurant,,10
+R00448,2024-10-22,Online purchase,74.45,DR,Online Purchase,,10
+R01058,2024-10-23,Grocery store,32.45,DR,Grocery,,10
+R00416,2024-10-23,Weekly groceries,25.06,DR,Grocery,,10
+R00160,2024-10-23,Dinner out,46.68,DR,Restaurant,,10
+R00719,2024-10-23,Lunch,21.99,DR,Restaurant,,10
+R00097,2024-10-23,Withdrew cash,40.0,DR,Atm Withdrawal,,10
+R01167,2024-10-23,Check payment,150.0,DR,Check Payment,,10
+R00808,2024-10-24,Dinner out,50.85,DR,Restaurant,,10
+R00780,2024-10-24,Move to savings,500.0,DR,Transfer,,10
+R01049,2024-10-25,Coffe shop,4.5,DR,Coffee,,10
+R00243,2024-10-25,Gas station,40.0,DR,Gas Station,,10
+R01177,2024-10-25,Online shopping,113.82,DR,Online Purchase,,10
+R00921,2024-10-25,Amzon order,99.13,DR,Online Purchase,,10
+R00002,2024-10-25,Cash withdrawal,60.0,DR,Atm Withdrawal,,10
+R00862,2024-10-26,Restaurant,14.09,DR,Restaurant,,10
+R00793,2024-10-26,Cash withdrawal,200.0,DR,Atm Withdrawal,,10
+R00811,2024-10-27,Coffee,4.5,DR,Coffee,,10
+R00043,2024-10-27,Online shopping,79.75,DR,Online Purchase,,10
+R00678,2024-10-27,Moved to savings,100.0,DR,Transfer,,10
+R00986,2024-10-28,Weekly groceries,81.34,DR,Grocery,,10
+R00591,2024-10-28,Lunch,31.75,DR,Restaurant,,10
+R00147,2024-10-28,Morning coffee,5.25,DR,Coffee,,10
+R00737,2024-10-28,Move to savings,100.0,DR,Transfer,,10
+R01106,2024-10-29,Food shopping,162.52,DR,Grocery,,10
+R00299,2024-10-29,Morning coffee,5.25,DR,Coffee,,10
+R00075,2024-10-29,Morning coffee,5.25,DR,Coffee,,10
+R00284,2024-10-29,Fill up,54.84,DR,Gas Station,,10
+R00876,2024-10-30,Weekly groceries,37.77,DR,Grocery,,10
+R00924,2024-10-30,Lunch,50.55,DR,Restaurant,,10
+R01053,2024-10-30,Gas station,60.0,DR,Gas Station,,10
+R00824,2024-10-30,Move to savings,250.0,DR,Transfer,,10
+R00740,2024-10-31,Dinner out,12.64,DR,Restaurant,,10
+R00365,2024-10-31,Luch,17.44,DR,Restaurant,,10
+R00976,2024-10-31,Coffee shop,4.5,DR,Coffee,,10
+R01086,2024-10-31,Bank fee,50.0,DR,Gas Station,,10
+R00089,2024-10-31,Online purchase,51.12,DR,Online Purchase,,10
+R00271,2024-10-31,Internal transfer,100.0,DR,Transfer,,10
+R00476,2024-10-31,Check payment,167.66,DR,Check Payment,,10
+R01247,2024-10-31,Monthly charge,12.0,DR,Bank Fee,,10
+R00231,2024-11-01,Groceries,29.46,DR,Grocery,,11
+R01070,2024-11-01,Groceries,77.97,DR,Grocery,,11
+R01079,2024-11-01,Coffee shop,5.25,DR,Coffee,,11
+R00922,2024-11-01,Coffee shop,5.75,DR,Coffee,,11
+R00241,2024-11-01,Cash,20.0,DR,Atm Withdrawal,,11
+R01057,2024-11-01,Transfer,200.0,DR,Transfer,,11
+R00500,2024-11-01,Salary,2450.0,CR,Payroll,,11
+R00652,2024-11-02,Weekly groceries,35.18,DR,Grocery,,11
+R01043,2024-11-02,Check #3043,104.36,DR,Grocery,,11
+R00204,2024-11-02,Rent,1850.0,DR,Rent,,11
+R00154,2024-11-03,Lunch,84.34,DR,Restaurant,,11
+R00236,2024-11-03,ATM cash,100.0,DR,Atm Withdrawal,,11
+R00971,2024-11-04,Music subscription,15.49,DR,Subscription,,11
+R00188,2024-11-05,Dinner out,161.97,DR,Restaurant,,11
+R00472,2024-11-05,Dinner out,22.79,DR,Restaurant,,11
+R00534,2024-11-05,Online shopping,53.86,DR,Online Purchase,,11
+R00510,2024-11-05,ATM cash,40.0,DR,Atm Withdrawal,,11
+R01284,2024-11-05,Moved to savings,500.04,DR,Transfer,,11
+R00461,2024-11-06,Gas,53.93,DR,Gas Station,,11
+R00993,2024-11-07,Food shopping,48.41,DR,Grocery,,11
+R00071,2024-11-08,Groceries,63.22,DR,Grocery,,11
+R00312,2024-11-08,Grocery store,66.81,DR,Grocery,,11
+R00905,2024-11-08,Weekly groceries,133.65,DR,Grocery,,11
+R01200,2024-11-08,Fuel,50.0,DR,Gas Station,,11
+R00715,2024-11-08,Onlne purchase,39.87,DR,Online Purchase,,11
+R00549,2024-11-09,Groceries,63.89,DR,Grocery,,11
+R00576,2024-11-09,Weekly groceries,112.73,DR,Grocery,,11
+R00012,2024-11-09,Dinner out,83.85,DR,Restaurant,,11
+R00545,2024-11-09,Fuel,48.39,DR,Gas Station,,11
+R00533,2024-11-09,Move to savings,100.0,DR,Transfer,,11
+R00530,2024-11-10,Check #3044,205.36,DR,Check Payment,,11
+R00315,2024-11-11,Food shopping,119.04,DR,Grocery,,11
+R00554,2024-11-11,Food shopping,47.63,DR,Grocery,,11
+R00896,2024-11-11,Coffee,4.5,DR,Coffee,,11
+R00841,2024-11-11,Streaming service,10.99,DR,Subscription,,11
+R01155,2024-11-11,Insurance payment,247.31,DR,Insurance,,11
+R01229,2024-11-12,Groceries,167.62,DR,Grocery,,11
+R00926,2024-11-12,Weekly groceries,61.14,DR,Grocery,,11
+R00096,2024-11-12,Weekly groceries,339.31,DR,Grocery,,11
+R00325,2024-11-12,Online shopping,38.95,DR,Online Purchase,,11
+R00650,2024-11-12,Healthinsurance,412.5,DR,Insurance,,11
+R00702,2024-11-13,Weekly groceries,111.69,DR,Grocery,,11
+R01236,2024-11-13,ATM cash,40.0,DR,Atm Withdrawal,,11
+R00803,2024-11-14,Grocery store,104.74,DR,Grocery,,11
+R00932,2024-11-14,Car insurance,24.13,DR,Restaurant,,11
+R00408,2024-11-14,Coffee shop,6.4,DR,Coffee,,11
+R00291,2024-11-15,Grocery store,53.09,DR,Grocery,,11
+R00648,2024-11-15,Grocery store,101.52,DR,Grocery,,11
+R00460,2024-11-15,Restaurant,13.25,DR,Restaurant,,11
+R00137,2024-11-15,Coffee shop,4.51,DR,Coffee,,11
+R01015,2024-11-15,Fuel,70.32,DR,Gas Station,,11
+R00438,2024-11-15,Salary,2450.0,CR,Payroll,,11
+R00055,2024-11-16,Coffee shop,5.25,DR,Coffee,,11
+R01140,2024-11-17,Grocery store,91.99,DR,Grocery,,11
+R00729,2024-11-17,Food shopping,74.98,DR,Grocery,,11
+R00405,2024-11-17,Lunch,37.95,DR,Restaurant,,11
+R00226,2024-11-17,Coffee shop,4.5,DR,Coffee,,11
+R00551,2024-11-17,Online shopping,30.01,DR,Online Purchase,,11
+R00370,2024-11-18,Online purchase,20.47,DR,Online Purchase,,11
+R00026,2024-11-18,Cash withdrawal,60.0,DR,Atm Withdrawal,,11
+R00524,2024-11-18,Gym,38.17,DR,Subscription,,11
+R00821,2024-11-19,Weekly groceries,190.37,DR,Grocery,,11
+R00244,2024-11-19,Morning coffee,4.5,DR,Coffee,,11
+R01293,2024-11-19,Fuel,37.8,DR,Gas Station,,11
+R00975,2024-11-19,Withdrew cash,100.0,DR,Atm Withdrawal,,11
+R00329,2024-11-19,Utilities,162.77,DR,Utility,,11
+R01134,2024-11-20,Grocery store,44.65,DR,Grocery,,11
+R00217,2024-11-20,Online shopping,18.75,DR,Online Purchase,,11
+R00362,2024-11-20,Online purchase,98.39,DR,Online Purchase,,11
+R00788,2024-11-20,Cash,200.0,DR,Atm Withdrawal,,11
+R00332,2024-11-20,Electric bill,44.91,DR,Utility,,11
+R00138,2024-11-21,Lunch,26.61,DR,Restaurant,,11
+R00085,2024-11-21,Lnch,23.89,DR,Restaurant,,11
+R00651,2024-11-21,Gas bill,173.94,DR,Utility,,11
+R01146,2024-11-22,Gas station,50.0,DR,Gas Station,,11
+R00100,2024-11-22,Amazon order,21.25,DR,Online Purchase,,11
+R01047,2024-11-23,Restaurant,32.29,DR,Restaurant,,11
+R00015,2024-11-23,Dinner out,20.74,DR,Restaurant,,11
+R00214,2024-11-24,Weekly groceries,64.76,DR,Grocery,,11
+R00567,2024-11-24,Restaurant,24.58,DR,Restaurant,,11
+R00095,2024-11-24,Coffee,5.25,DR,Coffee,,11
+R01242,2024-11-24,Online purchase,90.15,DR,Online Purchase,,11
+R00632,2024-11-24,Withdrew cash,20.0,DR,Atm Withdrawal,,11
+R01272,2024-11-24,ATM cash,100.0,DR,Atm Withdrawal,,11
+R00352,2024-11-25,Coffee shop,6.4,DR,Coffee,,11
+R00073,2024-11-26,Groceies,49.78,DR,Grocery,,11
+R00564,2024-11-26,Groceries,39.97,DR,Grocery,,11
+R00344,2024-11-26,Amazon order,34.86,DR,Online Purchase,,11
+R00112,2024-11-26,Online purchase,34.39,DR,Online Purchase,,11
+R00881,2024-11-27,Weekly groceries,160.91,DR,Grocery,,11
+R00991,2024-11-27,Lunch,10.12,DR,Restaurant,,11
+R00376,2024-11-27,Withdrew cash,200.0,DR,Atm Withdrawal,,11
+R00769,2024-11-28,Streaming service,50.07,DR,Restaurant,,11
+R01084,2024-11-28,Coffee,4.5,DR,Coffee,,11
+R00685,2024-11-28,Check #3045,574.0,DR,Check Payment,,11
+R01260,2024-11-29,Food shopping,56.14,DR,Grocery,,11
+R00339,2024-11-29,Lunch,34.62,DR,Restaurant,,11
+R00832,2024-11-29,Amazon order,87.35,DR,Online Purchase,,11
+R00717,2024-11-29,Move to savings,500.0,DR,Transfer,,11
+R01016,2024-11-30,Food shopping,79.73,DR,Grocery,,11
+R00022,2024-11-30,Montly charge,12.0,DR,Bank Fee,,11
+R00602,2024-12-01,Gas station,40.0,DR,Gas Station,,12
+R00219,2024-12-01,Paycheck,2450.0,CR,Payroll,,12
+R00469,2024-12-02,Groceries,36.56,DR,Grocery,,12
+R00609,2024-12-02,Morning coffee,5.25,DR,Coffee,,12
+R01075,2024-12-02,Fill up,62.78,DR,Gas Station,,12
+R00141,2024-12-02,Gas station,46.32,DR,Gas Station,,12
+R00439,2024-12-02,Transfer,1850.0,DR,Rent,,12
+R00916,2024-12-03,Grocery store,82.17,DR,Grocery,,12
+R01182,2024-12-03,Restaurant,12.93,DR,Restaurant,,12
+R01187,2024-12-03,Online shopping,40.9,DR,Online Purchase,,12
+R00172,2024-12-03,Cash,200.0,DR,Atm Withdrawal,,12
+R00053,2024-12-03,Paid by check,88.72,DR,Check Payment,,12
+R00902,2024-12-04,Lunch,46.79,DR,Restaurant,,12
+R01076,2024-12-04,Music subscription,15.49,DR,Subscription,,12
+R00285,2024-12-05,Fill up,40.0,DR,Gas Station,,12
+R00375,2024-12-06,Grocery store,46.6,DR,Grocery,,12
+R00179,2024-12-07,Other expense,156.01,DR,Miscellaneous,Unclear transaction,12
+R00541,2024-12-07,Fill up,56.42,DR,Restaurant,,12
+R00393,2024-12-07,Restaurant,40.37,DR,Restaurant,,12
+R00621,2024-12-07,Morning coffee,5.25,DR,Coffee,,12
+R00322,2024-12-07,Morning coffee,5.75,DR,Coffee,,12
+R00878,2024-12-07,Amazon order,15.51,DR,Online Purchase,,12
+R00449,2024-12-09,Dinner out,57.21,DR,Restaurant,,12
+R00379,2024-12-09,Cash withdrawal,20.0,DR,Atm Withdrawal,,12
+R00518,2024-12-09,Cash withdrawal,40.0,DR,Atm Withdrawal,,12
+R00527,2024-12-09,Check payment,153.53,DR,Check Payment,,12
+R00293,2024-12-10,Coffee,5.25,DR,Coffee,,12
+R00864,2024-12-10,Online shopping,53.39,DR,Online Purchase,,12
+R00149,2024-12-11,Dinner out,28.57,DR,Restaurant,,12
+R00667,2024-12-11,Restaurant,29.33,DR,Restaurant,,12
+R01289,2024-12-11,Fuel,60.0,DR,Gas Station,,12
+R00548,2024-12-11,Music subscription,10.99,DR,Subscription,,12
+R00489,2024-12-11,Health insurance,247.31,DR,Insurance,,12
+R00308,2024-12-12,Weekly groceries,30.4,DR,Grocery,,12
+R01195,2024-12-12,Coffee,5.75,DR,Coffee,,12
+R01254,2024-12-12,Online shopping,142.65,DR,Online Purchase,,12
+R00263,2024-12-12,Cash withdrawal,60.0,DR,Atm Withdrawal,,12
+R00571,2024-12-12,Check #3048,39.26,DR,Check Payment,,12
+R00556,2024-12-12,Insurance payment,412.5,DR,Insurance,,12
+R00559,2024-12-13,Weekly groceries,66.01,DR,Grocery,,12
+R00272,2024-12-13,Morning coffee,6.4,DR,Coffee,,12
+R01003,2024-12-13,Coffee shop,5.25,DR,Coffee,,12
+R01203,2024-12-13,Online shopping,58.08,DR,Online Purchase,,12
+R00165,2024-12-14,Weekly groceries,73.75,DR,Grocery,,12
+R00517,2024-12-14,Morning coffee,5.25,DR,Coffee,,12
+R00063,2024-12-14,Morning coffee,5.25,DR,Coffee,,12
+R00113,2024-12-14,Amazon order,31.27,DR,Online Purchase,,12
+R00739,2024-12-15,Food shopping,49.01,DR,Grocery,,12
+R00406,2024-12-15,Groceries,54.6,DR,Grocery,,12
+R00371,2024-12-15,Fuel,60.0,DR,Gas Station,,12
+R00918,2024-12-15,Monthly salary,2450.0,CR,Payroll,,12
+R00705,2024-12-16,Car insurance,259.17,DR,Grocery,,12
+R00519,2024-12-16,Restaurant,89.27,DR,Restaurant,,12
+R00973,2024-12-16,Other expense,32.26,DR,Miscellaneous,Unclear transaction,12
+R00804,2024-12-16,Cash withdrawal,20.0,DR,Atm Withdrawal,,12
+R00498,2024-12-17,Dinner out,24.82,DR,Restaurant,,12
+R00390,2024-12-18,Cash,200.0,DR,Atm Withdrawal,,12
+R01060,2024-12-18,Gym,38.17,DR,Subscription,,12
+R00942,2024-12-19,Grocery store,81.42,DR,Grocery,,12
+R00061,2024-12-19,Weekly groceries,186.1,DR,Grocery,,12
+R00218,2024-12-19,Restaurant,20.9,DR,Restaurant,,12
+R00684,2024-12-19,Restaurant,37.9,DR,Restaurant,,12
+R00696,2024-12-19,Eating out,73.41,DR,Restaurant,,12
+R00509,2024-12-19,Online shopping,63.86,DR,Online Purchase,,12
+R00114,2024-12-19,Check payment,32.42,DR,Check Payment,,12
+R00760,2024-12-19,Water bill,136.73,DR,Utility,,12
+R00807,2024-12-20,Grocery store,164.85,DR,Grocery,,12
+R01046,2024-12-20,Online purchase,30.07,DR,Online Purchase,,12
+R01280,2024-12-20,Water bill,85.37,DR,Utility,,12
+R00845,2024-12-21,Restaurant,64.75,DR,Restaurant,,12
+R00198,2024-12-21,Gas,32.71,DR,Gas Station,,12
+R00205,2024-12-21,Fill up,40.0,DR,Gas Station,,12
+R01250,2024-12-21,Online shopping,114.93,DR,Online Purchase,,12
+R01287,2024-12-21,Gas bill,146.18,DR,Utility,,12
+R00718,2024-12-22,Coffee shop,6.4,DR,Coffee,,12
+R00618,2024-12-22,Moved to savings,100.0,DR,Transfer,,12
+R00153,2024-12-23,Grocery store,68.09,DR,Grocery,,12
+R00195,2024-12-23,Groceries,68.14,DR,Grocery,,12
+R00857,2024-12-23,Lunch,14.6,DR,Restaurant,,12
+R01263,2024-12-23,Eating out,25.98,DR,Restaurant,,12
+R00844,2024-12-23,Coffee,5.75,DR,Coffee,,12
+R00907,2024-12-23,Online shopping,19.54,DR,Online Purchase,,12
+R00054,2024-12-23,Check payment,129.32,DR,Check Payment,,12
+R00450,2024-12-24,Grocery store,86.42,DR,Grocery,,12
+R00952,2024-12-24,Food shopping,83.6,DR,Grocery,,12
+R00356,2024-12-24,Food shopping,80.03,DR,Grocery,,12
+R00175,2024-12-24,Groceries,94.65,DR,Grocery,,12
+R01258,2024-12-24,Gas station,50.0,DR,Gas Station,,12
+R00854,2024-12-24,Paid by check,70.14,DR,Check Payment,,12
+R01121,2024-12-25,Weekly groceries,90.39,DR,Grocery,,12
+R01127,2024-12-25,Groceries,129.68,DR,Grocery,,12
+R01204,2024-12-25,Weekly groceries,55.89,DR,Grocery,,12
+R00999,2024-12-25,Weekly groceries,53.25,DR,Grocery,,12
+R01018,2024-12-25,Restaurant,91.5,DR,Restaurant,,12
+R01028,2024-12-25,Coffee shop,4.5,DR,Coffee,,12
+R01061,2024-12-25,Fill up,60.0,DR,Gas Station,,12
+R01176,2024-12-26,Car insurance,6.4,DR,Coffee,,12
+R00127,2024-12-26,Online purchase,30.1,DR,Online Purchase,,12
+R00931,2024-12-27,Food shopping,81.65,DR,Grocery,,12
+R00238,2024-12-27,Fuel,66.74,DR,Gas Station,,12
+R00136,2024-12-28,Grocries,74.55,DR,Grocery,,12
+R00853,2024-12-29,Restaurant,90.92,DR,Restaurant,,12
+R00018,2024-12-29,Fill up,40.0,DR,Gas Station,,12
+R00435,2024-12-29,ATM cash,20.0,DR,Atm Withdrawal,,12
+R01269,2024-12-29,Check #3050,87.73,DR,Check Payment,,12
+R00645,2024-12-31,Grocery store,110.71,DR,Grocery,,12
+R00099,2024-12-31,Lunch,23.38,DR,Restaurant,,12
+R01062,2024-12-31,Eating out,13.02,DR,Restaurant,,12
+R00913,2024-12-31,Lunch,48.34,DR,Restaurant,,12
+R00456,2024-12-31,Coffee shop,4.5,DR,Coffee,,12
+R00669,2024-12-31,Coffee,5.75,DR,Coffee,,12
+R00631,2024-12-31,Fill up,50.0,DR,Gas Station,,12
+R00633,2024-12-31,Cash,200.0,DR,Atm Withdrawal,,12
+R00155,2024-12-31,Withdrew cash,20.0,DR,Atm Withdrawal,,12
+R00229,2024-12-31,ATM cash,100.0,DR,Atm Withdrawal,,12
+R00642,2024-12-31,Monthly charge,12.0,DR,Bank Fee,,12

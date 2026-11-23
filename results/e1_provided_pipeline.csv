@@ -1,0 +1,4 @@
+stage,precision,recall,f1,tp,predicted,expected
+unique-amount,1.0,0.9285714285714286,0.962962962962963,286,286,308
+ML (on pairs left after unique),1.0,1.0,1.0,22,22,22
+all automatic,1.0,1.0,1.0,308,308,308
